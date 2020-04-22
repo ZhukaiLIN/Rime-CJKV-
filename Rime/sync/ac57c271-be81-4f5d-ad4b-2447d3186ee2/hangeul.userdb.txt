@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	hangeul.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	1
+#@/user_id	ac57c271-be81-4f5d-ad4b-2447d3186ee2
+geul 	글	c=1 d=1 t=1

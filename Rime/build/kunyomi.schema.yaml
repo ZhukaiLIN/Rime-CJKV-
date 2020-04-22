@@ -1,0 +1,301 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    default: 1586995426
+    default.custom: 0
+    key_bindings: 1576447906
+    key_bindings.custom: 0
+    kunyomi.custom: 0
+    kunyomi.schema: 1586654272
+    punctuation: 1571267928
+    punctuation.custom: 0
+engine:
+  filters:
+    - simplifier
+    - "simplifier@simp_jp"
+    - uniquifier
+    - reverse_lookup_filter
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - "affix_segmentor@luna_pinyin"
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - punct_translator
+    - script_translator
+    - "script_translator@luna_pinyin"
+key_binder:
+  bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+  import_preset: default
+luna_pinyin:
+  dictionary: luna_pinyin
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`"
+  suffix: ";"
+  tag: luna_pinyin
+  tips: "〔拼音〕"
+menu:
+  page_size: 15
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": ["＃", "⌘"]
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": {commit: "，"}
+    "-": "－"
+    .: {commit: "。"}
+    "/": ["／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "＝"
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": ["＠", "☯"]
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+  half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": "#"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["%", "％", "°", "℃"]
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
+    "+": "+"
+    ",": {commit: "，"}
+    "-": "-"
+    .: {commit: "。"}
+    "/": ["、", "/", "／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "="
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": "@"
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "\\", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "`"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": ["~", "～"]
+  import_preset: default
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    luna_pinyin: "^`[a-z']*;?$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+reverse_lookup:
+  comment_format:
+    - "xform/&/-/"
+  dictionary: kunyomi
+  overwrite_comment: false
+  tags:
+    - luna_pinyin
+schema:
+  author:
+    - "Ayaka Mikazuki <ayaka@mail.shn.hk>"
+  dependencies:
+    - luna_pinyin
+  description: |
+    This is the kunyomi input method for rime.
+    This schema uses OpenCC to convert the characters to Japanese style. Please put JPVariants.txt and t2jp.json in the opencc folder in advance.
+  name: "訓読み"
+  schema_id: kunyomi
+  version: 2020.04.12
+simp_jp:
+  opencc_config: t2jp.json
+  option_name: simp_jp
+speller:
+  algebra:
+    - "derive/^([^&]+)&.+$/$1/"
+    - "xform/&//"
+    - "xform/あ|ア/a/"
+    - "xform/い|イ/i/"
+    - "xform/う|ウ/u/"
+    - "xform/え|エ/e/"
+    - "xform/お|オ/o/"
+    - "xform/か|カ/ka/"
+    - "xform/き|キ/ki/"
+    - "xform/く|ク/ku/"
+    - "xform/け|ケ/ke/"
+    - "xform/こ|コ/ko/"
+    - "xform/さ|サ/sa/"
+    - "xform/し|シ/si/"
+    - "xform/す|ス/su/"
+    - "xform/せ|セ/se/"
+    - "xform/そ|ソ/so/"
+    - "xform/た|タ/ta/"
+    - "xform/ち|チ/ti/"
+    - "xform/つ|ツ/tu/"
+    - "xform/て|テ/te/"
+    - "xform/と|ト/to/"
+    - "xform/な|ナ/na/"
+    - "xform/に|ニ/ni/"
+    - "xform/ぬ|ヌ/nu/"
+    - "xform/ね|ネ/ne/"
+    - "xform/の|ノ/no/"
+    - "xform/は|ハ/ha/"
+    - "xform/ひ|ヒ/hi/"
+    - "xform/ふ|フ/hu/"
+    - "xform/へ|ヘ/he/"
+    - "xform/ほ|ホ/ho/"
+    - "xform/ま|マ/ma/"
+    - "xform/み|ミ/mi/"
+    - "xform/む|ム/mu/"
+    - "xform/め|メ/me/"
+    - "xform/も|モ/mo/"
+    - "xform/や|ヤ/ya/"
+    - "xform/ゆ|ユ/yu/"
+    - "xform/よ|ヨ/yo/"
+    - "xform/ら|ラ/ra/"
+    - "xform/り|リ/ri/"
+    - "xform/る|ル/ru/"
+    - "xform/れ|レ/re/"
+    - "xform/ろ|ロ/ro/"
+    - "xform/わ|ワ/wa/"
+    - "xform/ゐ|ヰ/wi/"
+    - "xform/ゑ|ヱ/we/"
+    - "xform/を|ヲ/wo/"
+    - "xform/ぱ|パ/pa/"
+    - "xform/ぴ|ピ/pi/"
+    - "xform/ぷ|プ/pu/"
+    - "xform/ぺ|ペ/pe/"
+    - "xform/ぽ|ポ/po/"
+    - "xform/が|ガ/ga/"
+    - "xform/ぎ|ギ/gi/"
+    - "xform/ぐ|グ/gu/"
+    - "xform/げ|ゲ/ge/"
+    - "xform/ご|ゴ/go/"
+    - "xform/ざ|ザ/za/"
+    - "xform/じ|ジ/zi/"
+    - "xform/ず|ズ/zu/"
+    - "xform/ぜ|ゼ/ze/"
+    - "xform/ぞ|ゾ/zo/"
+    - "xform/だ|ダ/da/"
+    - "xform/ぢ|ヂ/di/"
+    - "xform/づ|ヅ/du/"
+    - "xform/で|デ/de/"
+    - "xform/ど|ド/do/"
+    - "xform/ば|バ/ba/"
+    - "xform/び|ビ/bi/"
+    - "xform/ぶ|ブ/bu/"
+    - "xform/べ|ベ/be/"
+    - "xform/ぼ|ボ/bo/"
+    - "xform/i(ゃ|ャ)/ya/"
+    - "xform/i(ゅ|ュ)/yu/"
+    - "xform/i(ょ|ョ)/yo/"
+    - "xform/hu(ぃ|ィ)/fi/"
+    - "xform/ぁ|ァ/xa/"
+    - "xform/ぃ|ィ/xi/"
+    - "xform/ぅ|ゥ/xu/"
+    - "xform/ぇ|ェ/xe/"
+    - "xform/ぉ|ォ/xo/"
+    - "derive/^r/l/"
+    - "derive/^zi/ji/"
+    - "derive/^hu/fu/"
+    - "derive/^k/c/"
+    - "derive/^g/q/"
+    - "derive/zi/dzi/"
+    - "derive/zu/dzu/"
+    - "derive/di/dzi/"
+    - "derive/du/dzu/"
+    - "derive/si/shi/"
+    - "derive/ti/chi/"
+    - "derive/ti/tsi/"
+    - "derive/tu/tsu/"
+    - "derive/wi/i/"
+    - "derive/we/e/"
+    - "derive/wo/o/"
+    - "xform/ん|ン/n/"
+    - "xform/っ|ッ/Q/"
+    - "xform/Q(.)/$1$1/"
+    - "xform/(.)ー/$1$1/"
+    - "abbrev/^([a-z]).+$/$1/"
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+switches:
+  - name: ascii_mode
+    states: ["中文", "西文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - options: [noop, simplification, simp_jp]
+    reset: 2
+    states: ["漢體", "汉体", "和体"]
+translator:
+  comment_format:
+    - "xform/&//"
+  dictionary: kunyomi
+  spelling_hints: 20

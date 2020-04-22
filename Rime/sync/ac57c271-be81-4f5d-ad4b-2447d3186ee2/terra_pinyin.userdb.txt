@@ -1,0 +1,342 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	306
+#@/user_id	ac57c271-be81-4f5d-ad4b-2447d3186ee2
+a5 	啊	c=2 d=0.905673 t=306
+a5 qiong2 tan3 ke4 	啊窮坦克	c=1 d=0.329559 t=306
+an1 quan2 	安全	c=0 d=0.0472367 t=306
+an4 zhao4 	按照	c=1 d=0.465334 t=306
+ba1 	吧	c=1 d=0.449329 t=306
+ba1 li2 	巴黎	c=3 d=1.19732 t=306
+ba3 	把	c=1 d=0.97531 t=306
+ban4 	半	c=1 d=0.25284 t=306
+ban4 yin1 	半音	c=2 d=0.557482 t=306
+bao3 hu4 	保護	c=1 d=0.677057 t=306
+bao3 jia4 	保價	c=1 d=0.65377 t=306
+bei3 	北	c=1 d=0.308819 t=306
+ben3 shi4 	本事	c=0 d=0.0527292 t=306
+ben3 shi4 shi4 	本事是	c=1 d=0.529935 t=306
+bi4 xu1 	必須	c=0 d=0.0615697 t=306
+bi4 xu1 yao4 	必須要	c=1 d=0.618783 t=306
+bian1 	邊	c=1 d=0.254107 t=306
+bie2 ren2 	別人	c=0 d=0.0451581 t=306
+bie2 ren2 hui4 	別人會	c=1 d=0.453845 t=306
+bu4 	不	c=0 d=0.0458406 t=306
+bu4 dong3 	不懂	c=1 d=0.379083 t=306
+bu4 he2 li3 	不合理	c=1 d=0.364219 t=306
+bu4 kai1 che1 	不開車	c=1 d=0.460704 t=306
+cai2 	才	c=0 d=0.0535261 t=306
+cai2 zou3 chu1 	才走出	c=1 d=0.537944 t=306
+cai3 yong4 	採用	c=1 d=0.727888 t=306
+cai3 yong4 de5 	採用的	c=1 d=0.268474 t=306
+can1 dian3 	餐點	c=1 d=0.757959 t=306
+can1 guan3 	餐館	c=1 d=0.398519 t=306
+cha2 	查	c=1 d=0.486752 t=306
+cha4 jin4 	差勁	c=0 d=0.0336216 t=306
+chan3 ye4 	產業	c=1 d=0.625002 t=306
+chang2 	長	c=1 d=1 t=306
+chao1 	抄	c=0 d=0.0367879 t=306
+chao1 ji2 	超級	c=1 d=0.637628 t=306
+chao1 le5 yi1 fen4 	抄了一份	c=1 d=0.369723 t=306
+cheng2 du1 	成都	c=3 d=0.937347 t=306
+cheng2 dun1 	成噸	c=1 d=0.66365 t=306
+cheng2 pin3 	成品	c=1 d=0.67368 t=306
+chi1 	吃	c=1 d=1.00641 t=306
+chou2 chu2 	躊躇	c=1 d=0.29523 t=306
+chu1 lai2 	出來	c=0 d=0.0831104 t=306
+chu1 lai2 le5 	出來了	c=1 d=0.83527 t=306
+chu4 fa1 	觸發	c=0 d=0.0474734 t=306
+chun2 pu2 	淳樸	c=1 d=0.548812 t=306
+da4 	大	c=2 d=0.437429 t=306
+da4 	𤤊	c=1 d=0.225373 t=306
+da4 jia1 	大家	c=1 d=0.218712 t=306
+da4 jia1 hao3 	大家好	c=2 d=0.445158 t=306
+da4 jia4 	大駕	c=1 d=0.22313 t=306
+da4 lu4 	大陸	c=1 d=0.418952 t=306
+da4 shi3 guan3 	大使館	c=1 d=0.302704 t=306
+dai4 biao3 xing4 	代表性	c=1 d=0.425283 t=306
+dang1 shi2 de5 	當時的	c=1 d=0.491644 t=306
+dao4 le5 	到了	c=0 d=0.0559898 t=306
+de5 	的	c=11 d=7.07449 t=306
+di4 qu1 	地區	c=1 d=0.869358 t=306
+di4 shang5 	地上	c=1 d=0.404542 t=306
+dian4 ying3 yuan4 	電影院	c=2 d=1.16845 t=306
+dian4 zi3 	電子	c=0 d=0.0600496 t=306
+dian4 zi3 jing3 cha2 	電子警察	c=1 d=0.481909 t=306
+dian4 zi3 piao4 	電子票	c=1 d=0.603506 t=306
+die2 	疊	c=0 d=0.0440432 t=306
+dou1 	都	c=0 d=0.0873716 t=306
+dou1 hui2 	都回	c=1 d=0.918512 t=306
+dou1 zai4 	都在	c=2 d=0.809094 t=306
+dou1 zhao3 bu5 dao4 	都找不到	c=1 d=0.878095 t=306
+duan4 	段	c=1 d=0.995012 t=306
+er2 	而	c=3 d=1.25654 t=306
+fa3 guo2 	法國	c=2 d=1.10479 t=306
+fa3 yu3 	法語	c=1 d=0.550222 t=306
+fa3 yu3 zhu4 shou3 	法語助手	c=1 d=0.438235 t=306
+fan4 zui4 lv4 	犯罪率	c=1 d=0.516851 t=306
+fei1 ji1 	飛機	c=0 d=0.0410656 t=306
+fen1 yin1 fu2 	分音符	c=0 d=0.0289384 t=306
+feng2 	逢	c=1 d=0.99005 t=306
+ga2 si3 	軋死	c=0 d=0.032628 t=306
+ga2 si3 tong2 	軋死同	c=1 d=0.327915 t=306
+gan4 shen2 me5 	幹什麼	c=0 d=0.0448549 t=306
+gao1 ji2 	高級	c=1 d=0.647265 t=306
+gao1 tie3 	高鐵	c=1 d=0.423162 t=306
+ge4 	個	c=1 d=0.932394 t=306
+gong1 ju4 	工具	c=1 d=0.416862 t=306
+gong4 chan3 dang3 	共產黨	c=1 d=0.429557 t=306
+gou4 ru4 	購入	c=1 d=0.704688 t=306
+gu3 dai4 	古代	c=0 d=0.0351692 t=306
+gu3 dai4 de5 	古代的	c=1 d=0.353455 t=306
+gu3 qin2 	古琴	c=1 d=0.440432 t=306
+gu4 	顧	c=1 d=0.985112 t=306
+guan1 gua3 gu1 du2 	鰥寡孤獨	c=2 d=0.454139 t=306
+guan1 zhu4 	關注	c=0 d=0.0453845 t=306
+guan1 zhu4 ni3 	關注你	c=1 d=0.45612 t=306
+guan3 feng1 qin2 	管風琴	c=1 d=0.23457 t=306
+ha1 ha1 ha1 	哈哈哈	c=1 d=0.574072 t=306
+hai2 you3 	還有	c=0 d=0.0618783 t=306
+hai2 you3 xu3 duo1 	還有許多	c=1 d=0.621885 t=306
+han4 lin2 	翰林	c=1 d=0.50409 t=306
+hang2 ye4 	行業	c=1 d=0.634448 t=306
+hao3 xiang4 	好像	c=0 d=0.0786628 t=306
+hao3 xiang4 chi1 	好像吃	c=1 d=0.790571 t=306
+hao4 	號	c=1 d=0.511709 t=306
+he2 	和	c=2 d=0.853128 t=306
+he2 cheng2 dong1 	何承東	c=1 d=0.774916 t=306
+hen3 	很	c=1 d=0.348192 t=306
+hen3 shao3 	很少	c=1 d=0.740818 t=306
+hen3 xiao3 	很小	c=0 d=0.071177 t=306
+hen3 xiao3 yi2 bu4 fen4 	很小一部分	c=1 d=0.715338 t=306
+hen3 yan2 zhong4 	很嚴重	c=0 d=0.0625002 t=306
+hou4 shen3 	候審	c=0 d=0.0774916 t=306
+hua1 zhi1 	花枝	c=1 d=0.380983 t=306
+hua2 wei4 	華爲	c=3 d=2.31713 t=306
+hui2 guo2 	回國	c=0 d=0.0904837 t=306
+hui2 qu5 	回去	c=0 d=0.0444858 t=306
+hui2 qu5 ni3 de5 	回去你的	c=1 d=0.447088 t=306
+hui4 	會	c=0 d=0.0451581 t=306
+hui4 yuan2 ka3 	會員卡	c=1 d=0.609571 t=306
+ji1 nian2 qian2 	幾年前	c=1 d=0.535261 t=306
+ji4 du4 	季度	c=1 d=0.66034 t=306
+ji4 lu4 	記錄	c=1 d=0.496585 t=306
+ji4 ran2 	既然	c=1 d=0.366045 t=306
+jiang4 	降	c=2 d=0.516358 t=306
+jiao1 	交	c=1 d=0.2334 t=306
+jiao1 tong1 gui1 ze2 	交通規則	c=1 d=0.467666 t=306
+jin3 zhang1 	緊張	c=1 d=0.377192 t=306
+jing1 guo4 	經過	c=1 d=0.767206 t=306
+jing1 zhi4 	精緻	c=0 d=0.0637628 t=306
+jing1 zhi4 can1 dian3 	精緻餐點	c=1 d=0.640824 t=306
+jiu4 	就	c=2 d=1.52934 t=306
+jiu4 dao4 le5 	就到了	c=1 d=0.562705 t=306
+jiu4 mei2 you3 	就沒有	c=1 d=0.427415 t=306
+ju4 qing2 	劇情	c=0 d=0.0360595 t=306
+kai1 che1 	開車	c=0 d=0.0458406 t=306
+kan1 zhe5 	看着	c=1 d=0.346456 t=306
+ke3 yi3 	可以	c=1 d=0.241714 t=306
+kou3 wei4 	口味	c=0 d=0.088692 t=306
+kou3 wei4 le5 	口味了	c=1 d=0.891366 t=306
+kuai4 dian3 	快點	c=1 d=0.444858 t=306
+la1 	拉	c=1 d=0.392586 t=306
+lang4 fei4 	浪費	c=0 d=0.0625002 t=306
+lang4 fei4 ye3 hen3 yan2 zhong4 	浪費也很嚴重	c=1 d=0.628135 t=306
+lao3 jia1 	老家	c=1 d=0.923121 t=306
+le5 	了	c=1 d=0.582146 t=306
+lei4 bie2 	類別	c=0 d=0.0321422 t=306
+lei4 bie2 ne5 	類別呢	c=1 d=0.323033 t=306
+lei4 si4 	類似	c=1 d=0.882497 t=306
+liang3 	兩	c=2 d=1.87883 t=306
+lu4 di4 	陸地	c=0 d=0.040657 t=306
+lu4 di4 shang4 	陸地上	c=1 d=0.408608 t=306
+lu4 shang4 	路上	c=1 d=0.810584 t=306
+lv3 xing2 	旅行	c=0 d=0.0331211 t=306
+lv4 	率	c=1 d=0.272532 t=306
+ma2 la4 	麻辣	c=1 d=0.826959 t=306
+ma3 er3 kang1 	馬爾康	c=2 d=1.29537 t=306
+mao2 tai2 jiu3 	茅臺酒	c=1 d=0.384812 t=306
+mao4 si4 	貌似	c=1 d=0.970446 t=306
+mei2 you3 	沒有	c=2 d=0.604532 t=306
+mei2 you3 zhao3 dao4 	沒有找到	c=1 d=0.319819 t=306
+mei3 ci4 	每次	c=0 d=0.0904837 t=306
+mei3 ci4 hui2 guo2 	每次回國	c=1 d=0.909373 t=306
+men2 	門	c=1 d=0.292293 t=306
+meng3 shou4 	猛獸	c=1 d=0.951229 t=306
+mian4 	面	c=1 d=0.514407 t=306
+ming2 hua2 tang2 	明華堂	c=1 d=0.965605 t=306
+ming2 liang4 	明亮	c=1 d=0.360595 t=306
+ming2 ming2 	明明	c=1 d=0.597501 t=306
+na3 jia1 	哪家	c=1 d=0.396531 t=306
+na3 li3 	哪裏	c=0 d=0.0355226 t=306
+na3 li3 you3 	哪裏有	c=1 d=0.357007 t=306
+na4 ge5 	那個	c=1 d=0.847894 t=306
+na4 jia1 	那家	c=1 d=0.818731 t=306
+na4 me5 	那麼	c=2 d=0.779042 t=306
+na4 me5 zi4 xin4 	那麼自信	c=1 d=0.451581 t=306
+nan2 	南	c=1 d=0.806541 t=306
+nan2 hai2 	男孩	c=1 d=0.551563 t=306
+ne5 	呢	c=2 d=0.640494 t=306
+ni3 	你	c=1 d=0.339142 t=306
+ni3 de5 	你的	c=0 d=0.0444858 t=306
+ni3 zai4 	你在	c=0 d=0.022091 t=306
+ni3 zai4 gan4 shen2 me5 	你在幹什麼	c=1 d=0.222017 t=306
+niu2 rou4 	牛肉	c=1 d=0.822835 t=306
+nu2 li4 	奴隸	c=1 d=0.331211 t=306
+pao1 qi4 	拋棄	c=1 d=0.726149 t=306
+pian4 ma5 	片嗎	c=1 d=0.318224 t=306
+piao4 	票	c=0 d=0.0600496 t=306
+pin3 pai2 	品牌	c=1 d=0.657047 t=306
+ping2 jun1 	平均	c=1 d=0.271173 t=306
+pu2 	脯	c=1 d=0.390628 t=306
+qi2 ta1 	其他	c=1 d=0.856415 t=306
+qi2 yu2 de5 	其餘的	c=1 d=0.718924 t=306
+qi4 che1 	汽車	c=0 d=0.0410656 t=306
+qi4 che1 fei1 ji1 	汽車飛機	c=1 d=0.412714 t=306
+qiao2 mai4 	蕎麥	c=0 d=0.0826959 t=306
+qiao2 mai4 mian4 	蕎麥面	c=1 d=0.831104 t=306
+qiong2 	窮	c=0 d=0.0327915 t=306
+qu3 bao3 	取保	c=0 d=0.0774916 t=306
+qu3 bao3 hou4 shen3 	取保候審	c=1 d=0.778801 t=306
+qu4 	去	c=1 d=0.923116 t=306
+quan2 bu4 	全部	c=1 d=0.722527 t=306
+quan2 yin1 	全音	c=0 d=0.0283654 t=306
+que4 	卻	c=1 d=0.615697 t=306
+rang4 ren2 	讓人	c=0 d=0.0588605 t=306
+ren2 	人	c=1 d=0.554327 t=306
+ren2 kou3 	人口	c=2 d=1.04673 t=306
+rou4 pu1 	肉鋪	c=1 d=0.386741 t=306
+ru2 e2 	如額	c=1 d=0.32628 t=306
+ru4 jing4 	入境	c=1 d=0.298197 t=306
+san1 	三	c=0 d=0.101347 t=306
+san1 fen1 yin1 fu2 	三分音符	c=1 d=0.290835 t=306
+san1 ge4 	三個	c=1 d=0.261846 t=306
+san1 quan2 yin1 	三全音	c=1 d=0.285076 t=306
+shang1 jia1 	商家	c=1 d=0.744532 t=306
+shang4 	上	c=1 d=0.63518 t=306
+shang4 hai3 	上海	c=1 d=0.313486 t=306
+sheng1 	升	c=2 d=0.513386 t=306
+shi2 cai2 	食材	c=1 d=0.70822 t=306
+shi2 pin3 	食品	c=1 d=0.38868 t=306
+shi2 zai4 	實在	c=0 d=0.0588605 t=306
+shi2 zai4 rang4 ren2 wu2 yu3 	實在讓人無語	c=1 d=0.591555 t=306
+shi2 zhuang1 	時裝	c=1 d=0.631284 t=306
+shi4 	是	c=4 d=1.16387 t=306
+shi4 fa1 	事發	c=1 d=0.489192 t=306
+shi4 jie4 	世界	c=0 d=0.056836 t=306
+shu1 	輸	c=1 d=0.229925 t=306
+shu4 zi4 	數字	c=1 d=0.231078 t=306
+si3 	死	c=0 d=0.0408608 t=306
+si3 xing2 	死刑	c=1 d=0.960789 t=306
+si4 chuan1 	四川	c=1 d=0.620095 t=306
+si4 chuan1 lao3 jia1 	四川老家	c=1 d=0.798516 t=306
+si4 yang3 	飼養	c=1 d=0.946485 t=306
+suo3 yi3 	所以	c=1 d=0.282239 t=306
+tai2 	臺	c=1 d=0.307279 t=306
+tai2 wan1 	臺灣	c=2 d=0.603913 t=306
+tai4 jia3 	太假	c=0 d=0.0339596 t=306
+tai4 jia3 le5 	太假了	c=1 d=0.341298 t=306
+tan3 ke4 	坦克	c=0 d=0.0327915 t=306
+te4 xiao4 	特效	c=1 d=0.336216 t=306
+tian1 wen2 	天文	c=1 d=0.755784 t=306
+tong1 guo4 	通過	c=1 d=0.484325 t=306
+tong1 hua4 	通話	c=1 d=0.494109 t=306
+tong1 xing2 zheng4 	通行證	c=1 d=0.305746 t=306
+tong2 	同	c=0 d=0.032628 t=306
+tong2 hao1 	茼蒿	c=1 d=0.382893 t=306
+tong2 shi2 	同時	c=1 d=0.264477 t=306
+tu2 zhong1 	圖中	c=1 d=0.244143 t=306
+wang4 yuan3 jing4 	望遠鏡	c=1 d=0.759572 t=306
+wei2 	沩	c=1 d=0.980199 t=306
+wei2 he2 	違和	c=1 d=0.349938 t=306
+wei4 he2 	爲何	c=1 d=0.371577 t=306
+wei4 le5 	爲了	c=2 d=1.33096 t=306
+wei4 shen2 me5 	爲什麼	c=2 d=0.483434 t=306
+wen2 	文	c=1 d=0.802519 t=306
+wen4 ge4 wen4 ti2 	問個問題	c=1 d=0.239309 t=306
+wo3 	我	c=1 d=0.794534 t=306
+wo3 jian4 	我見	c=0 d=0.0227638 t=306
+wo3 jian4 zhi1 bu4 zhi1 dao4 yai2 gan4 shen2 me5 	我見知不知道崖幹什麼	c=1 d=0.228779 t=306
+wo3 men5 de5 	我們的	c=0 d=0.0331211 t=306
+wo3 men5 de5 lv3 xing2 	我們的旅行	c=1 d=0.332871 t=306
+wu2 yu3 	無語	c=0 d=0.0588605 t=306
+xia4 mian4 	下面	c=1 d=0.25924 t=306
+xian3 e4 	險惡	c=1 d=0.565525 t=306
+xiang1 dang1 yu2 	相當於	c=1 d=0.283654 t=306
+xiang1 lin2 	相鄰	c=1 d=0.860708 t=306
+xiang3 	想	c=1 d=0.900325 t=306
+xiao1 hui3 	銷毀	c=1 d=0.67032 t=306
+xiao3 	小	c=1 d=0.687289 t=306
+xiao3 mi3 	小米	c=1 d=0.57695 t=306
+xiao3 xian4 cheng2 	小縣城	c=1 d=0.852144 t=306
+xie1 	些	c=1 d=0.414783 t=306
+xie2 cheng2 	攜程	c=1 d=0.29671 t=306
+xie3 chu1 	寫出	c=1 d=0.247833 t=306
+xie3 le5 	寫了	c=1 d=0.263158 t=306
+xin4 xi2 	信息	c=1 d=0.612626 t=306
+xing2 hao4 	型號	c=0 d=0.0408608 t=306
+xing2 hao4 si3 	型號死	c=1 d=0.410656 t=306
+xing2 shi3 	行駛	c=1 d=0.470011 t=306
+xing2 shi4 	形式	c=1 d=0.265803 t=306
+xu3 duo1 	許多	c=0 d=0.0618783 t=306
+ya4 	齾	c=1 d=0.232236 t=306
+yai2 	崖	c=0 d=0.0227638 t=306
+yang2 guan1 	陽關	c=0 d=0.0440432 t=306
+yang2 guan1 san1 die2 	陽關三疊	c=1 d=0.442639 t=306
+yao4 	要	c=0 d=0.0615697 t=306
+ye3 	也	c=0 d=0.0625002 t=306
+ye3 bu4 zhi1 dao4 	也不知道	c=1 d=0.839457 t=306
+ye3 tai4 	也太	c=0 d=0.0336216 t=306
+ye3 tai4 cha4 jin4 	也太差勁	c=1 d=0.337902 t=306
+ye4 	業	c=1 d=0.644036 t=306
+ye4 wan3 	夜晚	c=1 d=0.355226 t=306
+yi1 fen4 	一份	c=0 d=0.0367879 t=306
+yi1 pan2 	一盤	c=1 d=0.683861 t=306
+yi1 qi3 	一起	c=1 d=0.249075 t=306
+yi1 wei4 	一位	c=1 d=0.532592 t=306
+yi1 yi4 	一億	c=1 d=0.436049 t=306
+yi2 bu4 fen4 	一部分	c=0 d=0.071177 t=306
+yi2 du4 	一度	c=1 d=0.287941 t=306
+yi2 xia4 zi5 	一下子	c=1 d=0.559898 t=306
+yi3 jing1 	已經	c=1 d=0.367879 t=306
+yin4 du4 	印度	c=1 d=0.33454 t=306
+ying1 su4 	罌粟	c=1 d=0.433874 t=306
+ying2 	贏	c=1 d=0.514274 t=306
+you3 	有	c=1 d=0.683256 t=306
+you3 an1 quan2 	有安全	c=1 d=0.474734 t=306
+you3 de5 	有的	c=1 d=0.235746 t=306
+you4 	又	c=1 d=0.479505 t=306
+you4 bu4 	又不	c=0 d=0.0474734 t=306
+you4 bu4 chu4 fa1 	又不觸發	c=1 d=0.477114 t=306
+yu2 	于	c=1 d=0.499074 t=306
+yu2 liao4 	餘料	c=1 d=0.737123 t=306
+yu4 liao4 	預料	c=1 d=0.733447 t=306
+zai4 ye3 	再也	c=1 d=0.904837 t=306
+zao3 chen2 	早晨	c=1 d=0.913931 t=306
+zeng1 	增	c=1 d=0.286505 t=306
+zhang1 quan2 dan4 	張全蛋	c=1 d=0.324652 t=306
+zhao3 bu5 dao4 	找不到	c=0 d=0.0873716 t=306
+zhe4 	這	c=1 d=0.379068 t=306
+zhe4 ge5 	這個	c=1 d=0.321422 t=306
+zhe4 ju4 qing2 	這劇情	c=1 d=0.362402 t=306
+zhe4 li3 	這裏	c=1 d=0.267135 t=306
+zhe4 me5 jian3 dan1 	這麼簡單	c=1 d=0.463013 t=306
+zhi1 bu4 zhi1 dao4 	知不知道	c=0 d=0.0227638 t=306
+zhi1 hu1 	知乎	c=1 d=0.786628 t=306
+zhi1 qian2 	之前	c=1 d=0.373439 t=306
+zhi3 	只	c=1 d=0.729789 t=306
+zhi3 	衹	c=1 d=0.697676 t=306
+zhi3 you3 	只有	c=1 d=0.26054 t=306
+zhong1 guo2 	中國	c=1 d=0.524663 t=306
+zhu2 jiang1 zhi3 	竹漿紙	c=1 d=0.955997 t=306
+zhu2 sun3 	竹筍	c=1 d=0.895834 t=306
+zhu4 shou3 	助手	c=1 d=0.552761 t=306
+zi1 ben3 	資本	c=0 d=0.056836 t=306
+zi1 ben3 shi4 jie4 	資本世界	c=1 d=0.571209 t=306
+zi4 ti3 	字體	c=1 d=0.344728 t=306
+zi4 xin4 	自信	c=0 d=0.0449329 t=306
+zou3 chu1 	走出	c=0 d=0.0535261 t=306
+zou3 lu4 	走路	c=1 d=0.458406 t=306
+zuo3 	左	c=1 d=0.251579 t=306

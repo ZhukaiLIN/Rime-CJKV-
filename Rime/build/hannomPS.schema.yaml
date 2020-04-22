@@ -1,0 +1,411 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    default: 1587247175
+    default.custom: 0
+    hannomPS.custom: 0
+    hannomPS.schema: 1587244160
+    key_bindings: 1576447906
+    key_bindings.custom: 0
+    punctuation: 1571267928
+    punctuation.custom: 0
+engine:
+  filters:
+    - simplifier
+    - uniquifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+key_binder:
+  bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+  import_preset: default
+menu:
+  page_size: 15
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": ["＃", "⌘"]
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": {commit: "，"}
+    "-": "－"
+    .: {commit: "。"}
+    "/": ["／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "＝"
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": ["＠", "☯"]
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+  half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": "#"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["%", "％", "°", "℃"]
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
+    "+": "+"
+    ",": {commit: "，"}
+    "-": "-"
+    .: {commit: "。"}
+    "/": ["、", "/", "／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "="
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": "@"
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "\\", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "`"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": ["~", "～"]
+  import_preset: default
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    reverse_lookup: "`[a-z]*'?$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+reverse_lookup:
+  comment_format:
+    - "xform ([aeiouâăôê])(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform ([aeiouâăôê])([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform ([ae])([ou])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform , ，【𡨸異體】"
+    - "xform A 　"
+    - "xform z "
+    - "xform dd đ"
+    - "xform aa â"
+    - "xform âs ấ"
+    - "xform âf ầ"
+    - "xform âj ậ"
+    - "xform âx ẫ"
+    - "xform âr ẩ"
+    - "xform aw ă"
+    - "xform ăs ắ"
+    - "xform ăf ằ"
+    - "xform ăj ặ"
+    - "xform ăx ẵ"
+    - "xform ăr ẳ"
+    - "xform oo ô"
+    - "xform ôs ố"
+    - "xform ôf ồ"
+    - "xform ôj ộ"
+    - "xform ôx ỗ"
+    - "xform ôr ổ"
+    - "xform ee ê"
+    - "xform ês ế"
+    - "xform êf ề"
+    - "xform êj ệ"
+    - "xform êx ễ"
+    - "xform êr ể"
+    - "xform uw ư"
+    - "xform ưs ứ"
+    - "xform ưf ừ"
+    - "xform ưj ự"
+    - "xform ưx ữ"
+    - "xform ưr ử"
+    - "xform ow ơ"
+    - "xform ơs ớ"
+    - "xform ơf ờ"
+    - "xform ơj ợ"
+    - "xform ơx ỡ"
+    - "xform ơr ở"
+    - "xform as á"
+    - "xform af à"
+    - "xform aj ạ"
+    - "xform ax ã"
+    - "xform ar ả"
+    - "xform is í"
+    - "xform if ì"
+    - "xform ij ị"
+    - "xform ix ĩ"
+    - "xform ir ỉ"
+    - "xform us ú"
+    - "xform uf ù"
+    - "xform uj ụ"
+    - "xform ux ũ"
+    - "xform ur ủ"
+    - "xform es é"
+    - "xform ef è"
+    - "xform ej ẹ"
+    - "xform ex ẽ"
+    - "xform er ẻ"
+    - "xform os ó"
+    - "xform of ò"
+    - "xform oj ọ"
+    - "xform ox õ"
+    - "xform or ỏ"
+    - "xform ys ý"
+    - "xform yf ỳ"
+    - "xform yj ỵ"
+    - "xform yx ỹ"
+    - "xform yr ỷ"
+  dictionary: cangjie5
+  enable_completion: true
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  prefix: "`"
+  suffix: "'"
+  tips: "〔倉頡〕"
+schema:
+  author:
+    - "Keepout2010 <Keepout2010@163.com>"
+  dependencies:
+    - cangjie5
+  description: |
+    𡨸漢喃、telex
+    
+  name: "㗂越南·𡨸漢喃"
+  schema_id: hannomPS
+  version: 0.10
+simplifier:
+  opencc_config: hn.ini
+  option_name: hn_sp
+  tips: all
+speller:
+  algebra:
+    - "abbrev/^([a-z]).+$/$1/"
+    - "derive/^(.*)[z,sxjfrA]$/$1/"
+  alphabet: "Azyxwvutsrqponmlkjihgfedcba,"
+  delimiter: " '"
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["漢喃", "榜𡨸丐拉丁"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: hn_sp
+    states: ["漢字", "汉字"]
+translator:
+  comment_format:
+    - "xform ([aeiouâăôê])(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform ([aeiouâăôê])([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform ([ae])([ou])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform z "
+    - "xform dd đ"
+    - "xform aa â"
+    - "xform âs ấ"
+    - "xform âf ầ"
+    - "xform âj ậ"
+    - "xform âx ẫ"
+    - "xform âr ẩ"
+    - "xform aw ă"
+    - "xform ăs ắ"
+    - "xform ăf ằ"
+    - "xform ăj ặ"
+    - "xform ăx ẵ"
+    - "xform ăr ẳ"
+    - "xform oo ô"
+    - "xform ôs ố"
+    - "xform ôf ồ"
+    - "xform ôj ộ"
+    - "xform ôx ỗ"
+    - "xform ôr ổ"
+    - "xform ee ê"
+    - "xform ês ế"
+    - "xform êf ề"
+    - "xform êj ệ"
+    - "xform êx ễ"
+    - "xform êr ể"
+    - "xform uw ư"
+    - "xform ưs ứ"
+    - "xform ưf ừ"
+    - "xform ưj ự"
+    - "xform ưx ữ"
+    - "xform ưr ử"
+    - "xform ow ơ"
+    - "xform ơs ớ"
+    - "xform ơf ờ"
+    - "xform ơj ợ"
+    - "xform ơx ỡ"
+    - "xform ơr ở"
+    - "xform as á"
+    - "xform af à"
+    - "xform aj ạ"
+    - "xform ax ã"
+    - "xform ar ả"
+    - "xform is í"
+    - "xform if ì"
+    - "xform ij ị"
+    - "xform ix ĩ"
+    - "xform ir ỉ"
+    - "xform us ú"
+    - "xform uf ù"
+    - "xform uj ụ"
+    - "xform ux ũ"
+    - "xform ur ủ"
+    - "xform es é"
+    - "xform ef è"
+    - "xform ej ẹ"
+    - "xform ex ẽ"
+    - "xform er ẻ"
+    - "xform os ó"
+    - "xform of ò"
+    - "xform oj ọ"
+    - "xform ox õ"
+    - "xform or ỏ"
+    - "xform ys ý"
+    - "xform yf ỳ"
+    - "xform yj ỵ"
+    - "xform yx ỹ"
+    - "xform yr ỷ"
+  dictionary: hannomPS
+  enable_completion: false
+  preedit_format:
+    - "xform ([aeiouâăôê])(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform ([aeiouâăôê])([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform ([ae])([ou])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)([iunptcmy])([sfjxr]) $1$3$2"
+    - "xform (aw|ow|uw)(ng|nh|ch)([sfjxr]) $1$3$2"
+    - "xform z "
+    - "xform , "
+    - "xform A 　"
+    - "xform dd đ"
+    - "xform aa â"
+    - "xform âs ấ"
+    - "xform âf ầ"
+    - "xform âj ậ"
+    - "xform âx ẫ"
+    - "xform âr ẩ"
+    - "xform aw ă"
+    - "xform ăs ắ"
+    - "xform ăf ằ"
+    - "xform ăj ặ"
+    - "xform ăx ẵ"
+    - "xform ăr ẳ"
+    - "xform oo ô"
+    - "xform ôs ố"
+    - "xform ôf ồ"
+    - "xform ôj ộ"
+    - "xform ôx ỗ"
+    - "xform ôr ổ"
+    - "xform ee ê"
+    - "xform ês ế"
+    - "xform êf ề"
+    - "xform êj ệ"
+    - "xform êx ễ"
+    - "xform êr ể"
+    - "xform uw ư"
+    - "xform ưs ứ"
+    - "xform ưf ừ"
+    - "xform ưj ự"
+    - "xform ưx ữ"
+    - "xform ưr ử"
+    - "xform ow ơ"
+    - "xform ơs ớ"
+    - "xform ơf ờ"
+    - "xform ơj ợ"
+    - "xform ơx ỡ"
+    - "xform ơr ở"
+    - "xform as á"
+    - "xform af à"
+    - "xform aj ạ"
+    - "xform ax ã"
+    - "xform ar ả"
+    - "xform is í"
+    - "xform if ì"
+    - "xform ij ị"
+    - "xform ix ĩ"
+    - "xform ir ỉ"
+    - "xform us ú"
+    - "xform uf ù"
+    - "xform uj ụ"
+    - "xform ux ũ"
+    - "xform ur ủ"
+    - "xform es é"
+    - "xform ef è"
+    - "xform ej ẹ"
+    - "xform ex ẽ"
+    - "xform er ẻ"
+    - "xform os ó"
+    - "xform of ò"
+    - "xform oj ọ"
+    - "xform ox õ"
+    - "xform or ỏ"
+    - "xform ys ý"
+    - "xform yf ỳ"
+    - "xform yj ỵ"
+    - "xform yx ỹ"
+    - "xform yr ỷ"
+  prism: hannomPS
+  spelling_hints: 10

@@ -1,0 +1,1931 @@
+# Rime table
+#@/db_name	user.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	1172
+工	a	1
+式	aa	1
+式子	aabb	1
+邛	abh	2
+弎	add	1
+项	adm	1
+藏	adnt	3
+蓋	afcl	1
+贰	afm	4
+七	ag	1
+廿	agh	2
+卄	aghh	1
+艹	aghh	1
+蕙	agj	1
+蕙	agjn	1
+七	agn	1
+匚	agn	4
+匸	agn	1
+戈	agnt	1
+弋	agny	2
+牙	ah	1
+东	ai	1
+昔	ajf	1
+功	al	1
+功能	alce	2
+茄	alkf	1
+英	amd	1
+英	amdu	1
+黄	amwu	1
+戈壁滩	anic	1
+茕	apn	1
+切	av	1
+共	aw	1
+戉	axyi	1
+了	b	4
+陈	ba	1
+陈	bai	2
+子	bb	1
+子	bbb	1
+取	bc	3
+际	bf	2
+陆	bfm	1
+耳	bgh	2
+孙	bi	1
+阳	bj	5
+出	bm	4
+也	bn	1
+了	bnh	1
+凵	bnh	1
+卩	bnh	1
+阝	bnh	1
+孑	bnhg	1
+也	bnhn	1
+孔	bnn	1
+巜	bnn	2
+辽	bp	3
+阿	bs	3
+阿	bsk	2
+阿	bskg	1
+联盟	buje	1
+队	bw	2
+队	bwy	1
+以	c	1
+戏	ca	1
+弁	caj	1
+刭	cajh	1
+劲	cal	2
+予	cbj	1
+又	ccc	1
+叠	cccg	1
+参	cd	2
+叁	cdd	2
+对	cfy	1
+骊	cg	1
+馬	cggy	4
+台湾	ckiy	2
+观	cm	2
+观察	cmpw	2
+马	cn	1
+巴	cnh	1
+巴	cnhn	1
+马	cnn	1
+厶	cny	1
+龴	cny	1
+允	cq	1
+鸡	cqy	2
+矣	ct	1
+难	cw	1
+驻	cy	1
+驻	cyg	3
+在	d	1
+大陆	ddbf	1
+大明	ddje	1
+厉	ddn	1
+厉	ddnv	1
+髭	deh	1
+長	deu	1
+奎	dfff	1
+三	dg	4
+三	dggg	1
+古琴	dggg	1
+古	dgh	1
+古	dghg	1
+戌	dgn	1
+戌	dgnt	1
+厉	dgq	1
+丆	dgt	1
+厂	dgt	2
+犬	dgty	1
+丰	dh	1
+彗	dhdv	1
+在	dhf	2
+在	dhfd	1
+成	dn	2
+尤其	dnad	1
+成都	dnft	1
+劢	dnln	1
+迈	dnp	1
+万	dnv	4
+成	dnxy	2
+戊	dny	1
+戊	dnyt	3
+确	dqe	1
+确	dqeh	1
+厅	ds	1
+奇	dskf	7
+肆	dv	2
+肆四	dvlh	1
+龙	dx	1
+戊	dxy	2
+袭	dxy	3
+太	dy	1
+戍	dynt	4
+戍	dyxy	1
+有	e	3
+肥	ec	1
+须	ed	1
+月	eeee	1
+豸	eer	1
+脚	efcb	1
+且	eg	1
+豕	egt	1
+爱	ep	2
+采	es	1
+采检	essw	1
+采	esu	1
+用	et	1
+彡	ett	1
+胜利	ettj	1
+脑	eybh	1
+脑死	eygq	1
+地	f	1
+去	fcu	1
+城	fd	1
+寺	ff	1
+土	ffff	2
+二	fg	5
+直	fh	14
+越	fha	2
+越	fhat	1
+直	fhf	7
+赴	fhh	1
+赵	fhq	1
+真	fhw	1
+示	fi	5
+未来	figo	5
+未	fii	10
+示涞	fiig	1
+进	fj	1
+朝	fje	1
+韩	fjfh	6
+进	fjp	1
+乾	fjt	1
+韩语	fjyg	1
+颉	fkdm	1
+吉	fkf	1
+南	fm	1
+南	fmuf	1
+专业	fnog	1
+专	fny	1
+赤	fo	3
+壹	fpg	8
+壹	fpgu	2
+赵宣棋	fpsa	1
+无	fq	2
+元	fqb	2
+教	ftbt	2
+都	ftjb	1
+教程	fttk	2
+雪	fv	1
+夫	fw	1
+一	g	38
+开	ga	2
+武	gah	1
+型	gajf	1
+开	gak	1
+开始	gavc	1
+顿	gbnm	1
+到	gc	1
+至	gcf	2
+到	gcfj	1
+致	gcft	1
+天	gd	1
+天	gdi	1
+表	ge	2
+青	gef	1
+表示	gefi	1
+于	gf	2
+亞	gfgd	1
+五	gg	4
+王	gggg	1
+龶	gggg	1
+戋	gggt	1
+一	ggl	6
+五福	ggpy	1
+五笔	ggtt	18
+琴	ggw	1
+一个	ggwh	2
+下	gh	1
+正	ghd	1
+政	ght	2
+政策	ghtg	1
+政府	ghyw	1
+不	gi	9
+不用	giet	1
+不	gii	2
+不法	giif	1
+理	gjf	1
+更	gjq	1
+事	gk	2
+画	gl	1
+卌	glk	1
+现	gm	1
+现在	gmdh	1
+两	gmww	1
+瓦	gny	1
+来	go	2
+亚	gog	3
+来	goi	5
+万	gq	2
+列	gq	3
+万	gqe	9
+迈	gqpv	1
+死	gqx	2
+玖	gqy	1
+末	gs	3
+一模一样	gsgs	1
+末笔	gstt	1
+平	gu	1
+妻	gv	1
+互	gxg	1
+毒	gxgu	1
+玉	gy	1
+上	h	7
+虎	ha	1
+虔	hay	1
+皮	hc	1
+瞋	hfhw	1
+凸	hgh	1
+卍	hghn	1
+凸	hgm	2
+凸	hgmg	3
+止	hh	2
+丨	hhl	6
+亅	hhll	2
+卡	hhu	4
+卜	hhy	1
+步	hi	1
+旧	hj	3
+旧版	hjth	1
+占	hk	1
+战	hka	7
+战	hkat	1
+敁	hkhc	1
+点	hko	1
+凹	hnhg	10
+凹凸	hnhg	2
+凹	hnmg	4
+𣥃	hnn	1
+眯	ho	1
+見	hqb	1
+瞳	hu	3
+眼镜	hvqu	1
+具	hw	1
+不	i	3
+满	iagw	2
+柒	ias	1
+浇	iat	1
+池	ib	3
+汉	ic	2
+治	ick	3
+汉字	icpb	1
+肖	ie	2
+法	ifc	3
+法国	iflg	1
+法语	ifyg	1
+满天飞	ignu	1
+涞	igo	1
+𬇕	igqe	2
+小	ih	2
+波	ihc	1
+波	ihcy	1
+水	ii	2
+水	iii	1
+浊	ij	1
+戦	ijfa	2
+漫漫	ijij	11
+渐	il	3
+没有	imde	4
+油	img	1
+沁	in	1
+汛	inf	1
+淡	io	2
+学	ip	1
+学	ipbf	1
+常	ipkh	1
+淘	iqr	1
+泊	ir	2
+派	ire	1
+酒店	isyh	1
+少	it	4
+少	itr	6
+少康	ityv	22
+洋	iu	3
+洋文	iuyy	1
+当	iv	2
+注	iy	2
+是	j	21
+竖	jcu	2
+明天	jegd	1
+量	jg	1
+旺	jgg	2
+旺旺	jgjg	1
+蝠	jgkl	2
+师	jgm	1
+早	jh	1
+刂	jhh	1
+曰	jhng	2
+畅	jhnr	3
+虫	jhny	1
+晃	ji	1
+日光灯	jios	1
+昌	jj	1
+旺旺雪饼	jjfq	2
+日	jjjj	2
+日本	jjsg	1
+日语	jjyg	6
+电子	jnbb	1
+易	jqr	3
+星	jtg	1
+临	jtyj	1
+曳	jxe	1
+蝙蝠	jyjg	1
+蝙	jyna	3
+中	k	15
+啊	kb	1
+吗	kcg	1
+喃	kfm	1
+中	kh	1
+中	khk	12
+吕	kk	1
+戰	kkja	5
+單	kkjf	1
+口	kkkk	1
+哈哈哈	kkkw	1
+川	kthh	2
+哪里	kvjf	1
+哈	kwg	2
+哈	kwgk	3
+国	l	8
+因	ld	9
+恩	ldn	1
+因为	ldyl	1
+胃	le	1
+转	lfn	1
+转	lfny	1
+黑	lfo	1
+转写	lfpg	1
+车	lg	1
+国	lgy	2
+国	lgyi	1
+四	lh	3
+四川	lhkt	1
+皿	lhn	1
+甲	lhnh	1
+辑	lkb	1
+驾	lkc	2
+回国	lklg	1
+回车	lklg	1
+〇	llll	2
+田	llll	2
+力	ln	2
+思	ln	3
+思想	lnsh	1
+力	lt	4
+输入法	ltif	3
+图	ltu	2
+図	luqi	1
+婁	lvf	2
+输	lwg	1
+输	lwgj	1
+界	lwj	1
+输入	lwty	3
+同	m	1
+骨	me	1
+同	mgk	1
+崃	mgo	1
+夙	mgq	1
+由	mh	1
+冂	mhn	1
+貝	mhny	1
+贝	mhny	1
+峰回路转	mlkl	1
+山东	mmai	4
+册	mmgd	1
+凹	mmgd	6
+凹凸	mmhg	5
+山	mmm	1
+山	mmmm	1
+赑	mmmu	2
+罂粟	mmso	1
+凯	mnm	4
+凯	mnmn	1
+過	mnmp	1
+几	mtn	1
+肉	mww	1
+肉	mwwi	1
+丹	myd	1
+民	n	11
+怪	nc	2
+居	nd	1
+导	nf	3
+卂	nfk	1
+怀	ng	2
+情	nge	2
+情	ngeg	1
+情爱	ngep	1
+司	ngk	1
+眉	nhd	1
+悄	ni	3
+避	nk	2
+壁	nkuf	1
+屃	nmi	1
+忆	nn	2
+己	nngn	1
+巳	nngn	1
+尸	nngt	1
+书	nnh	1
+书	nnhy	3
+乙	nnl	2
+⺄	nnll	4
+乚	nnll	2
+乛	nnll	1
+𠃌	nnll	1
+𠃑	nnll	1
+已	nnnn	1
+羽	nny	1
+懈	nq	3
+飞	nui	2
+恨	nv	2
+惟	nwy	1
+心	ny	2
+忄	nyhy	1
+心	nyn	1
+以	nyw	1
+为	o	13
+烃	oc	2
+类	od	1
+灶	of	2
+业	og	1
+炒	oi	2
+火光烛天	oiog	1
+烛	oj	2
+灿	om	2
+迷	op	2
+炮	oq	1
+粼	oqab	1
+烽	ot	2
+炸	othf	1
+焖	oun	1
+炒冷饭	ouqn	1
+数	ovt	1
+粉	ow	2
+炉	oynt	1
+这	p	1
+宽	pa	2
+字	pb	4
+字根	pbsv	1
+家	pe	5
+农工	peaa	1
+塞	pfjf	2
+冠	pfqf	1
+室	pgc	2
+室	pgcf	2
+宣	pgj	1
+写	pgng	3
+宝	pgy	1
+宵	pi	2
+宫	pkk	1
+军	pl	2
+灾	po	2
+之	pp	1
+之	pppp	1
+宛	pq	1
+宾	pr	2
+衫	pue	1
+初	puv	1
+安	pv	2
+寫	pvqo	3
+安全	pvwg	1
+穿	pwat	1
+神人畅	pwjh	4
+穷	pwl	1
+社	py	1
+社	pyf	1
+福	pygl	1
+神	pyj	1
+神	pyjh	5
+祝	pyk	2
+祝	pykq	3
+祥	pyu	1
+我	q	23
+希	qdmh	1
+鱼	qgf	9
+鲁	qgj	1
+鲤	qgjf	1
+金正恩	qgld	1
+外	qh	1
+乐	qi	1
+锂	qjf	1
+名	qkf	1
+钟	qkhh	4
+锅	qkmw	1
+包	qn	3
+饼	qnu	1
+包	qnv	1
+多	qq	3
+金	qqqq	5
+钣	qrc	1
+儿	qt	2
+犭	qte	3
+钅	qtgn	1
+儿	qtn	1
+勹	qtn	1
+乂	qty	1
+匀	qu	3
+键	qvfp	3
+久	qy	3
+留	qyvl	1
+的	r	20
+找	ra	1
+反	rc	1
+反	rci	1
+反查	rcsj	1
+拜	rdfh	2
+排	rdj	1
+卮	rgbv	1
+扌	rgh	1
+看	rhf	1
+扯	rhg	1
+朱	ri	1
+挡	riv	1
+捌	rklj	1
+制	rmhj	3
+戶	rnd	1
+所以	rnny	1
+控	rpw	2
+换	rqm	2
+折	rr	1
+哲	rrk	1
+白	rrr	1
+白	rrrr	1
+拆	rry	6
+拆	rryy	1
+打	rs	2
+手	rt	2
+手写	rtpg	1
+撇	rumt	1
+拼音	ruuj	1
+搜索	rvfp	1
+搜	rvhc	3
+失	rw	1
+拾	rwgk	1
+観	rwyq	1
+拂	rxjh	1
+撤	ryc	1
+抗争	ryqv	1
+械	sa	1
+棋	sad	1
+横	sam	1
+杤	sdnn	1
+标	sfi	2
+标	sfiy	1
+标准	sfuw	5
+本	sg	1
+西班牙	sgah	1
+酉	sgd	1
+丁	sgh	1
+西	sghg	1
+櫖	shan	1
+相信	shwy	1
+可	sk	2
+可能	skce	1
+哥哥	sksk	1
+机	sm	1
+札	snn	1
+杨	snr	1
+林祝凯	spmn	10
+栃	srdn	1
+柏	srg	1
+林	ss	10
+梵	ssmy	1
+林祝	sspy	1
+林	ssy	1
+格	stkg	2
+检	sw	1
+检	swgi	1
+和	t	2
+长	ta	1
+长音	tauj	1
+乔	tdjj	2
+辞典	tdma	1
+知道	tdut	1
+舟	tei	1
+盘	tel	1
+船	temk	1
+舰	temq	1
+行	tf	1
+千	tfk	1
+选	tfqp	1
+片	thg	1
+版	thgc	1
+香	tjf	1
+和	tkg	1
+程	tkgg	2
+种	tkh	1
+各种	tktk	4
+身	tmd	1
+微	tmg	1
+微	tmgt	1
+徽	tmgt	2
+身边	tmlp	2
+釉	tom	1
+称	tqi	1
+黎	tqti	1
+特	trff	1
+我	trxy	1
+笔	tt	2
+笔划	ttaj	2
+丿	ttl	1
+禾	tttt	1
+科	tu	1
+很	tve	2
+签	twgi	1
+繁	txgi	1
+第	txht	1
+入	ty	1
+入	tyi	1
+产	u	1
+并	ua	3
+关	ud	4
+卷	udbb	1
+头	udi	1
+鲞	udqg	1
+状	udy	1
+痣	ufni	1
+凌	ufw	1
+闰	ug	4
+美	ugdu	1
+盖	ugl	2
+美国	uglg	2
+病	ugm	2
+冰	ui	4
+章	ujj	1
+部	uk	1
+部	ukb	2
+部首	ukut	1
+曾	ulj	1
+疫情	umng	1
+决	un	3
+普	uo	1
+疢	uoi	1
+旁	upy	1
+交	uq	3
+酱	uqsg	1
+亲	us	1
+新	usr	1
+立	uu	5
+准	uwy	1
+准	uwyg	1
+北	ux	4
+北大	uxdd	2
+背	uxe	1
+六月	uyee	1
+发	v	1
+毁	va	3
+好	vb	7
+好	vbg	3
+驽	vcc	1
+始	vckg	1
+姑	vd	1
+退	vep	4
+姨	vg	1
+與	vgnw	1
+录	vi	1
+隶	vii	1
+如	vk	2
+邕	vkc	1
+如何	vkws	1
+輿	vlgw	1
+刀	vn	2
+彐	vng	1
+刀	vnt	2
+巡	vp	1
+婚	vq	1
+學	vqqb	2
+杂	vs	1
+臼	vth	2
+嫌	vu	1
+馗	vuth	2
+女	vvv	1
+人	w	6
+偀	wamd	1
+仓	wbb	1
+传	wfny	2
+什么	wftc	1
+全	wg	1
+伍	wgg	3
+合	wgk	1
+命	wgkb	2
+合	wgkf	1
+盒	wgkl	1
+例	wgq	1
+修改	whnt	1
+保	wks	1
+倨	wnd	1
+假名	wnqk	1
+伙	wo	1
+你	wq	1
+你	wqiy	1
+仮	wrcy	1
+佚名	wrqk	1
+位	wug	2
+欲盖弥彰	wuxu	1
+分	wv	1
+从	ww	1
+人畅	wwjh	1
+欲	wwkw	5
+人民	wwna	3
+人类	wwod	2
+人数	wwov	1
+人	wwww	1
+华	wxf	1
+令	wyc	2
+今	wynb	2
+经	xc	1
+结	xf	2
+疆	xfg	1
+疆	xfgg	1
+毌	xfk	1
+母	xgu	1
+纱	xi	1
+糸	xiu	1
+强	xk	1
+强	xkjy	1
+细	xl	1
+弓	xng	1
+幺	xnny	1
+糹	xnny	2
+综	xp	1
+弥	xqi	1
+张	xt	2
+綘	xtdh	1
+缝	xtdp	1
+匕	xtn	1
+𠤎	xtn	2
+给	xw	1
+丝	xxg	2
+纟	xxx	2
+统	xyc	1
+编码	xydc	2
+编辑	xylk	1
+编	xyna	2
+主	y	9
+离港	ybia	1
+充	yc	3
+衣	ye	1
+谣	yerm	5
+谣言	yeyy	2
+计	yf	3
+廟	yfje	1
+证	ygh	1
+语	ygk	3
+语	ygkg	1
+就	yi	3
+应运	yifc	1
+就是	yijg	1
+剠	yijh	1
+京	yiu	2
+刘	yj	3
+亣	yjj	1
+齐	yjj	1
+库	ylk	1
+高	ym	3
+词	yngk	2
+永	yni	1
+扁	ynma	1
+词组	ynxe	1
+房	yny	1
+词库	ynyl	1
+房	ynyv	1
+这	yp	3
+这样	ypsu	1
+这个	ypwh	1
+义	yq	1
+订	ys	3
+话	ytd	1
+旅顺	ytkd	1
+谢谢	ytyt	1
+说	yu	3
+说	yuk	3
+康	yvi	7
+康	yvii	2
+认	yw	4
+诊	ywe	1
+文	yygy	8
+丶	yyl	5
+言	yyy	1
+文言文	yyyy	3
+⒈	zzd	1
+⒗	zzd	1
+七艹卄匚	encaaaa	0
+七艹卄匚匸	encaaaa	0
+弋七艹卄	encaaaa	0
+弋七艹卄匚	encaaaa	0
+弋七艹卄匚匸	encaaaa	0
+艹卄匚匸	encaaaa	0
+七艹卄	encaaag	0
+卄匚匸	encaaag	0
+弋七艹	encaaag	0
+艹卄匚	encaaag	0
+牙共东	encaaai	0
+邛崃	encabmg	0
+弎须	encaded	1
+藏梵	encadss	0
+贰叁	encafcd	0
+贰二	encaffg	0
+七艹	encagag	0
+匚匸	encagag	0
+卄匚	encagag	0
+弋七	encagag	0
+戈七	encagag	0
+艹卄	encagag	0
+匚眉	encagnh	0
+蕙如	encagvk	0
+匚丶	encagyy	0
+牙共	encahaw	0
+茄子	encalbb	0
+邛崃林	encamss	0
+英文	encamyy	0
+匚眉心忄	encannn	0
+匚眉心	encanny	0
+黄焖鸡	encaocq	1
+藏梵语	encasyg	0
+共东	encawai	0
+陈水	encbaii	0
+陈柏	encbasr	0
+出辽阿队	encbbbb	0
+取际阳出	encbbbb	0
+取际阳出辽	encbbbb	0
+阝卩也耳	encbbbb	0
+阳出辽阿	encbbbb	0
+阳出辽阿队	encbbbb	0
+际阳出辽	encbbbb	0
+际阳出辽阿	encbbbb	0
+卩也耳	encbbbg	0
+取际阳	encbbbj	0
+际阳出	encbbbm	0
+孑了巜	encbbbn	0
+阝卩也	encbbbn	0
+阳出辽	encbbbp	0
+出辽阿	encbbbs	0
+出辽阿队毁	encbbbv	0
+辽阿队毁	encbbbv	0
+辽阿队毁姑	encbbbv	0
+辽阿队	encbbbw	0
+子曰	encbbjh	0
+阿队毁	encbbva	0
+阿队毁姑	encbbvv	0
+阿队毁姑姨	encbbvv	0
+取际	encbcbf	0
+际阳	encbfbj	0
+陆柒	encbfia	0
+陆柒捌玖	encbirg	0
+陆柒捌	encbirk	0
+陆柒捌玖拾	encbirr	0
+陈水扁	encbiyn	0
+阳出	encbjbm	0
+阳关	encbjud	0
+孙国池渐不	encblig	1
+出辽	encbmbp	0
+出冰	encbmui	0
+也耳	encbnbg	0
+了巜	encbnbn	0
+卩也	encbnbn	0
+孑了	encbnbn	0
+阝卩	encbnbn	0
+了吗	encbnkc	0
+辽阿	encbpbs	0
+阿塞拜	encbprd	0
+阿塞拜疆	encbprx	1
+阿队	encbsbw	0
+陈柏惟	encbsnw	0
+阿塞	encbspf	0
+阳关三叠	encbudc	0
+阳关三	encbudg	0
+队毁姑	encbvvd	0
+队毁姑姨	encbvvv	0
+队毁姑姨如	encbvvv	0
+队毁	encbwva	0
+戏参	enccacd	0
+巴龴予	enccccb	0
+厶巴龴予	enccccc	0
+参骊观允	enccccc	0
+参骊观允矣	enccccc	0
+观允矣难	enccccc	0
+马厶巴龴	enccccc	0
+马厶巴龴予	enccccc	0
+骊观允矣	enccccc	0
+骊观允矣难	enccccc	0
+参骊观	enccccm	0
+厶巴龴	enccccn	0
+马厶巴	enccccn	0
+骊观允	enccccq	0
+观允矣	encccct	0
+允矣难	enccccw	0
+允矣难经	enccccx	0
+允矣难经结	enccccx	0
+观允矣难经	enccccx	0
+矣难经	encccxc	0
+矣难经结	encccxx	0
+矣难经结纱	encccxx	0
+参骊	enccdcg	0
+叁三	enccddg	0
+骊观	enccgcm	0
+台湾退出	enccivb	0
+台湾退	enccive	0
+观允	enccmcq	0
+观宛	enccmpq	1
+龴予	enccncb	0
+厶巴	enccncn	0
+巴龴	enccncn	0
+马厶	enccncn	0
+巴黎	enccntq	0
+允矣	enccqct	0
+矣难	encctcw	0
+难经	enccwxc	0
+难经结	enccxxf	0
+难经结纱	enccxxx	0
+难经结纱细	enccxxx	0
+驻希	enccyqd	0
+三叠	encdgcc	0
+古琴	encdggg	1
+三星	encdgjt	0
+有一个	encdgwh	0
+有一个病	encdgwu	0
+大明寺	encdjff	1
+戊戌	encdndg	0
+成戊	encdndn	0
+万列	encdngq	0
+确认	encdqyw	0
+确诊	encdqyw	1
+有可能	encdsce	0
+有可能一	encdscg	0
+奇未	encdsfi	0
+奇不	encdsgi	0
+肆四	encdvlh	0
+肆伍	encdvwg	0
+确诊有	encdyde	0
+太示	encdyfi	0
+彡豕且衣家用	enceeee	0
+采彡豕且	enceeee	0
+采彡豕且衣家用	enceeee	0
+彡豕且	enceeeg	0
+采彡豕	enceeeg	0
+彡豕且衣家用派	enceeei	0
+采彡豕且衣家用派	enceeei	0
+彡豕且衣家	enceeep	0
+采彡豕且衣家	enceeep	0
+彡豕且衣家用派白	enceeer	0
+采彡豕且衣家用派白	enceeer	0
+彡豕且衣	enceeey	0
+采彡豕且衣	enceeey	0
+月白	enceerr	0
+豕且衣	enceeye	0
+豕且衣家用	enceeye	0
+豕且衣家用派	enceeyi	0
+豕且衣家	enceeyp	0
+豕且衣家用派白	enceeyr	0
+豕且	encegeg	0
+且衣	encegye	0
+用派白	enceirr	0
+月白禾	encertt	0
+采检采检	enceses	0
+采彡	enceset	0
+采检	encessw	1
+彡豕	enceteg	0
+用派	encetir	0
+脑死	enceygq	1
+且衣家	enceype	0
+且衣家用	enceype	0
+且衣家用派	enceypi	0
+且衣家用派白	enceypr	0
+壹贰叁	encfacd	0
+城二	encfdfg	0
+直乾了	encffbn	0
+城二进	encfffj	0
+夫天无元	encfgff	0
+二进	encfgfj	0
+夫天无	encfgfq	0
+未来国	encfglg	0
+二分	encfgwv	0
+越南	encfhfm	1
+直上止卜丨亅占直	encfhhf	0
+直上	encfhhh	0
+直上止	encfhhh	0
+直上止卜	encfhhh	0
+直上止卜丨	encfhhh	0
+直上止卜丨亅	encfhhh	0
+直上止卜丨亅占	encfhhh	0
+直很	encfhtv	0
+未来	encfigo	1
+示涞	encfiig	1
+示涞炒	encfioi	1
+乾了	encfjbn	1
+韩越	encfjfh	0
+进南	encfjfm	0
+韩国	encfjlg	1
+韩语	encfjyg	1
+吉亚	encfkgo	0
+去哪里	encfkjf	0
+韩国语	encflyg	0
+专业	encfnog	0
+赤壁我	encfntr	0
+赤壁	encfonk	0
+壹贰	encfpaf	0
+壹一	encfpgg	0
+赵宣棋	encfpsa	1
+无元	encfqfq	0
+都好	encftvb	0
+都好奇	encfvds	0
+夫天	encfwgd	0
+二分之一	encfwpg	0
+二分之	encfwpp	0
+二分之一强	encfwpx	0
+开表	encgage	0
+到了	encgcbn	0
+现在丰	encgddh	0
+天无	encgdfq	0
+致确诊有	encgdyd	0
+致确诊	encgdyw	0
+不用表示	encgegf	0
+青五	encgegg	0
+表下	encgegh	0
+一直乾了	encgffb	0
+玉城二进	encgfff	0
+玉城二	encgffg	0
+于专	encgffn	0
+天无元	encgffq	0
+万夫天	encgfgd	0
+万夫天无	encgfgf	0
+万夫天无元	encgfgf	0
+于王	encgfgg	0
+于专业	encgfog	0
+表示长音	encgftu	0
+一直很	encgftv	0
+妻玉城	encggfd	0
+妻玉城二	encggff	0
+妻玉城二进	encggff	0
+一直	encggfh	0
+一壹	encggfp	0
+龶青	encggge	0
+末妻玉城	encgggf	0
+末妻玉城二	encgggf	0
+龶青五瞋直	encgggf	0
+开表下事	encgggg	0
+龶青五	encgggg	0
+开表下	encgggh	0
+龶青五瞋	encgggh	0
+表下事	encgggk	0
+事来末	encgggs	0
+末妻玉	encgggy	0
+五瞋	encgghf	0
+青五瞋	encgghf	0
+青五瞋直	encgghf	0
+五福	encggpy	0
+一横	encggsa	1
+一科	encggtu	0
+一强	encggxk	0
+五瞋直	encghfh	0
+下事	encghgk	0
+政治	encghic	0
+政治太示	encgidf	0
+政治太	encgidy	0
+不到	encgigc	0
+不瓦	encgign	0
+不是	encgijg	0
+不同	encgimg	0
+不法炒	encgioi	1
+政治凌	encgiuf	0
+不是政	encgjgh	0
+不是政治	encgjgi	0
+不是政治凌	encgjgu	0
+事来	encgkgo	0
+不同导	encgmnf	0
+两盒	encgmwg	0
+亚元	encgofq	0
+来末	encgogs	0
+来国	encgolg	0
+万夫	encgqfw	0
+玖拾	encgqrw	0
+末妻	encgsgv	0
+五笔工	encgtaa	1
+五笔字根	encgtps	0
+不知道去	encgtuf	0
+不知道去哪里	encgtuj	0
+不知道	encgtut	0
+政策好	encgtvb	0
+末笔为	encgtyl	0
+五笔词组	encgtyx	0
+平上	encguhh	0
+妻玉	encgvgy	0
+一个政策	encgwgt	0
+一个政策好	encgwgv	0
+不合常理	encgwig	1
+两盒钣	encgwqr	0
+一个病	encgwug	0
+互毌	encgxxf	0
+互毌结	encgxxf	0
+玉城	encgyfd	0
+政府的	encgyrq	0
+政府的一个	encgyrw	0
+虔皮	enchahc	0
+皮日	enchcjj	0
+瞋直	enchffh	0
+旧平上	enchghh	0
+亅占直	enchhfh	0
+上万	enchhgq	1
+上止卜丨亅占直	enchhhf	0
+丨亅占直	enchhhf	0
+卜丨亅占直	enchhhf	0
+止卜丨亅占直	enchhhf	0
+上止	enchhhh	0
+上止卜	enchhhh	0
+上止卜丨	enchhhh	0
+上止卜丨亅	enchhhh	0
+上止卜丨亅占	enchhhh	0
+丨亅	enchhhh	0
+卜丨	enchhhh	0
+卜丨亅	enchhhh	0
+卜丨亅占	enchhhh	0
+止卜	enchhhh	0
+止卜丨	enchhhh	0
+止卜丨亅	enchhhh	0
+止卜丨亅占	enchhhh	0
+丨亅占	enchhhk	0
+亅占	enchhhk	0
+虔皮日	enchhjj	0
+丨儿	enchhqt	0
+卡找	enchhra	0
+上疢	enchhuo	1
+旧平	enchjgu	0
+旧步	enchjhi	0
+占直	enchkfh	0
+点型	enchkga	0
+战戦	enchkij	0
+战情	enchkng	1
+战情室	enchnpg	0
+卡找不到	enchrgg	0
+卡找不	enchrgi	0
+上普眯	enchuho	1
+上普眯上疢	enchuhu	0
+柒捌	enciark	0
+池肖	encibie	0
+治太	encicdy	0
+治亚	encicgo	0
+汉洋	enciciu	0
+汉喃	encickf	0
+治凌	encicuf	0
+治太示	encidfi	0
+没有一横	encidgs	0
+肖水	encieii	0
+满天飞	encignu	1
+波炉	encihoy	0
+小衫	encihpu	0
+水渐淡泊	enciiii	0
+水渐淡泊当	enciiii	0
+池肖水	enciiii	0
+池肖水渐	enciiii	0
+池肖水渐淡	enciiii	0
+淡泊当注	enciiii	0
+渐淡泊当	enciiii	0
+渐淡泊当注	enciiii	0
+肖水渐淡	enciiii	0
+肖水渐淡泊	enciiii	0
+水渐	enciiil	0
+肖水渐	enciiil	0
+水渐淡	enciiio	0
+泊当注烃	enciiio	0
+泊当注烃灶	enciiio	0
+淡泊当注烃	enciiio	0
+渐淡泊	enciiir	0
+淡泊当	enciiiv	0
+泊当注	enciiiy	0
+当注烃	enciioc	0
+当注烃灶	enciioo	0
+当注烃灶烛	enciioo	0
+水扁	enciiyn	0
+渐淡	encilio	0
+法国人有	encilwd	0
+法国人	encilww	0
+油炸	encimot	0
+淡泊	encioir	0
+注烃灶	encioof	0
+注烃灶烛	enciooo	0
+注烃灶烛灿	enciooo	0
+淘宝	enciqpg	1
+柒捌玖	encirgq	0
+柒捌玖拾	encirgr	0
+泊当	enciriv	0
+派白	encirrr	0
+少康	encityv	0
+当注	enciviy	0
+少康战情爱至	enciyhg	1
+少康战情	enciyhn	0
+少康战情室	enciyhp	0
+注烃	enciyoc	0
+日韩越	encjffh	0
+是政	encjggh	0
+明天开始	encjggv	0
+是政治	encjgic	0
+是政治太	encjgid	0
+是政治太示	encjgif	0
+是政治凌	encjgiu	0
+旺旺	encjgjg	1
+师早	encjgjh	0
+是林	encjgss	0
+是主	encjgyg	0
+是说	encjgyu	0
+早虫	encjhjh	0
+曰临	encjhjt	0
+虫口	encjhkk	0
+晃悄	encjini	0
+日韩	encjjfj	0
+旺旺雪饼	encjjfq	1
+师早虫	encjjjh	0
+师早虫口	encjjjk	0
+早虫口	encjjkk	0
+是因为	encjlyl	0
+是因为美国	encjlyl	0
+是因为美国采检	encjlys	0
+是因为美国采检采检	encjlys	0
+晃悄瞳	encjnhu	0
+易式	encjqaa	0
+易文	encjqyy	0
+曳匕	encjxxt	0
+蝙蝠	encjyjg	0
+日语输入	encjylt	0
+日语手写	encjyrp	0
+日语手写输入	encjyrt	0
+日语辞典	encjytm	1
+中止	enckhhh	0
+戰战戦	enckhij	0
+中是	enckhjg	0
+中日	enckhjj	0
+中国	enckhlg	0
+啊上普眯	enckhuh	0
+啊上普眯上疢	enckhuu	0
+中华	enckhwx	0
+中文	enckhyy	0
+中日韩越	enckjff	0
+中日韩	enckjfj	0
+戰战	enckkhk	0
+單婁	enckkkg	0
+哈哈哈	enckkkw	1
+單婁	enckklv	0
+川田	encktll	0
+哈哈	enckwkw	0
+中文打字	enckyrp	0
+中文打	enckyrs	0
+中文打字机	enckyrs	0
+因类	encldod	0
+因为	encldyl	0
+转写	enclfpg	1
+转换	enclfrq	0
+驾于专	enclgfn	0
+驾于专业	enclgfo	0
+国画	enclggl	0
+国沁	enclgin	1
+车力	enclglt	0
+国家	enclgpe	0
+国语	enclgyg	0
+国这	enclgyp	0
+甲车	enclhlg	0
+四皿	enclhlh	0
+皿甲	enclhlh	0
+驾于	enclkgf	0
+皿甲车	enclllg	0
+四皿甲	enclllh	0
+〇〇	encllll	0
+四皿甲车	encllll	0
+四皿甲车力	encllll	0
+四皿甲车力曾黑	encllll	0
+甲车力曾黑	encllll	0
+皿甲车力	encllll	0
+皿甲车力曾黑	encllll	0
+甲车力	enclllt	0
+四皿甲车力曾	enclllu	0
+甲车力曾	enclllu	0
+皿甲车力曾	enclllu	0
+回国所以	encllrn	0
+回国所以这样	encllrs	0
+回国所以这样就	encllry	0
+车力曾	encllul	0
+车力曾黑	encllul	0
+力思	enclnln	0
+转写转写	enclplp	0
+国家安全法	enclppi	0
+国家安全	enclppw	0
+国家的名字	enclprp	0
+国家的	enclprq	0
+国家的名	enclprq	0
+国家的名字搜	enclprr	0
+输入韩	encltfj	0
+输入法	encltif	0
+输入法词库	encltiy	0
+输入拼音以	encltrn	0
+输入拼音以五笔	encltrt	0
+输入拼音	encltru	0
+图片	encltth	0
+力曾	encltul	0
+力曾黑	enclulf	0
+输入	enclwty	0
+因为美国	enclyul	0
+因为美国采检	enclyus	0
+因为美国采检采检	enclyus	0
+山东舰	encmate	1
+同肥戈壁滩功	encmeaa	1
+夙骨	encmgme	0
+同导	encmgnf	0
+崃林	encmgss	0
+凹凸凹凸	encmhmh	0
+由贝	encmhmh	0
+贝貝	encmhmh	0
+凹凸凹	encmhmm	0
+貝几	encmhmt	0
+凹凸	encmmhg	1
+丹夙骨	encmmme	0
+由贝貝	encmmmh	0
+貝几冂	encmmmh	0
+由贝貝几	encmmmm	0
+由贝貝几冂	encmmmm	0
+贝貝几冂	encmmmm	0
+贝貝几	encmmmt	0
+赑屃	encmmnm	1
+山本	encmmsg	0
+山本千	encmstf	0
+几冂	encmtmh	0
+肉丝	encmwxx	1
+丹夙	encmymg	0
+民主	encnayg	0
+心取际阳	encnbbb	0
+心取际阳出	encnbbb	0
+心取际	encnbbf	0
+怪怀	encncng	0
+居留	encndqy	0
+导至	encnfgc	0
+怀避	encngnk	0
+情室	encngpg	0
+司札	encngsn	0
+以五笔	encngtt	0
+眉心	encnhny	0
+悄瞳	encnihu	0
+避忆	encnknn	0
+壁我	encnktr	0
+恨心取际	encnnbb	0
+恨心取际阳	encnnbb	0
+恨心取	encnnbc	0
+乙丨	encnnhh	0
+书法	encnnif	1
+己民	encnnna	0
+巳己民	encnnna	0
+忆懈恨心取	encnnnb	0
+懈恨心取	encnnnb	0
+懈恨心取际	encnnnb	0
+怪怀避	encnnnk	0
+巳己	encnnnn	0
+忆懈恨心	encnnnn	0
+怀避忆	encnnnn	0
+怀避忆懈	encnnnn	0
+怀避忆懈恨	encnnnn	0
+怪怀避忆	encnnnn	0
+怪怀避忆懈	encnnnn	0
+避忆懈恨	encnnnn	0
+避忆懈恨心	encnnnn	0
+忆懈	encnnnq	0
+避忆懈	encnnnq	0
+忆懈恨	encnnnv	0
+懈恨心	encnnny	0
+眉心忄	encnnny	0
+居留卡	encnqhh	0
+懈恨	encnqnv	0
+以亲釉	encnuto	1
+恨心	encnvny	0
+心取	encnybc	0
+书应运	encnyfc	1
+心忄	encnyny	0
+民主的	encnyrq	0
+粼阝卩也	encobbb	0
+粼阝卩也耳	encobbb	0
+粼阝卩	encobbn	0
+烃灶	encocof	0
+灶烛	encofoj	0
+烛灿	encojom	0
+灿迷	encomop	0
+烃灶烛	encoooj	0
+灶烛灿	encooom	0
+灶烛灿迷	encoooo	0
+灶烛灿迷炮	encoooo	0
+灶烛灿迷烽	encoooo	0
+灿迷烽粉	encoooo	0
+烃灶烛灿	encoooo	0
+烃灶烛灿迷	encoooo	0
+烛灿迷炮	encoooo	0
+烛灿迷烽	encoooo	0
+烛灿迷烽粉	encoooo	0
+灿迷烽粉宽	encooop	0
+烛灿迷	encooop	0
+迷烽粉宽	encooop	0
+灿迷炮	encoooq	0
+灿迷烽	encooot	0
+迷烽粉	encooow	0
+烽粉宽	encoopa	0
+烽粉宽家	encoopp	0
+烽粉宽家宵	encoopp	0
+迷炮	encopoq	0
+迷烽	encopot	0
+粉宽家	encoppe	0
+粉宽家宵	encoppp	0
+粉宽家宵军	encoppp	0
+粼阝	encoqbn	0
+烽粉	encotow	0
+数倨	encovwn	0
+粉宽	encowpa	0
+宽家	encpape	0
+字搜	encpbrv	0
+字机	encpbsm	0
+字和	encpbtk	0
+家用	encpeet	0
+家用派	encpeir	0
+家用派白	encpeir	0
+家宵	encpepi	0
+家的	encperq	0
+塞拜	encpfrd	0
+写寫	encpgpv	0
+之一强	encpgxk	0
+宵军	encpipl	0
+军灾	encplpo	0
+社怪怀	encpnng	0
+社怪怀避	encpnnn	0
+社怪怀避忆	encpnnn	0
+灾宾	encpopr	0
+之一	encppgg	0
+之界	encpplw	0
+安社怪	encppnc	0
+安社怪怀	encppnn	0
+安社怪怀避	encppnn	0
+宽家宵	encpppi	0
+家宵军	encpppl	0
+宾安社怪	encpppn	0
+宾安社怪怀	encpppn	0
+灾宾安社怪	encpppn	0
+宵军灾	encpppo	0
+军灾宾安	encpppp	0
+军灾宾安社	encpppp	0
+宵军灾宾	encpppp	0
+宵军灾宾安	encpppp	0
+家宵军灾	encpppp	0
+家宵军灾宾	encpppp	0
+宽家宵军	encpppp	0
+宽家宵军灾	encpppp	0
+灾宾安社	encpppp	0
+军灾宾	encpppr	0
+灾宾安	encpppv	0
+宾安社	encpppy	0
+家安全	encppwg	0
+家安全法	encppwi	0
+宾安	encprpv	0
+家的名	encprqk	0
+家的名字	encprqp	0
+家的名字搜	encprqr	0
+塞拜疆	encprxf	0
+字和四川	encptlk	0
+安社	encpvpy	0
+宫保鸡丁	encpwcs	1
+安全法	encpwif	0
+神人畅	encpwjh	1
+神具	encpyhw	1
+祝凯	encpymn	0
+社怪	encpync	0
+神人	encpyww	0
+鲁吉亚	encqfgo	0
+鲁吉	encqgfk	0
+金正恩	encqgld	1
+鱼香	encqgtj	0
+鱼没有	encqide	0
+名字	encqkpb	0
+钟馗	encqkvu	1
+包多	encqnqq	0
+包从	encqnww	0
+名字搜	encqprv	0
+锅包肉	encqqmw	1
+包多匀久	encqqqq	0
+金钅	encqqqt	0
+包多匀	encqqqu	0
+多匀	encqqqu	0
+包多匀久充	encqqqy	0
+包多匀久充计	encqqqy	0
+包多匀久充计刘	encqqqy	0
+包多匀久充计刘高	encqqqy	0
+包多匀久充计刘高这	encqqqy	0
+包多匀久充计刘高这订	encqqqy	0
+多匀久	encqqqy	0
+多匀久充	encqqqy	0
+多匀久充计	encqqqy	0
+多匀久充计刘	encqqqy	0
+多匀久充计刘高	encqqqy	0
+多匀久充计刘高这	encqqqy	0
+多匀久充计刘高这订	encqqqy	0
+多匀久充计刘高这订认	encqqqy	0
+金检	encqqsw	0
+金人	encqqww	0
+匀久充	encqqyc	0
+匀久充计刘高这订认并	encqqyu	0
+匀久充计	encqqyy	0
+匀久充计刘	encqqyy	0
+匀久充计刘高	encqqyy	0
+匀久充计刘高这	encqqyy	0
+匀久充计刘高这订	encqqyy	0
+匀久充计刘高这订认	encqqyy	0
+键盘图	encqtlt	0
+键盘图片	encqtlt	0
+匀久	encquqy	0
+键盘	encqvte	0
+金人月	encqwee	0
+金人月白	encqwer	0
+金人月白禾	encqwet	0
+留卡	encqyhh	0
+久充	encqyyc	0
+久充计	encqyyf	0
+久充计刘高这订认并	encqyyu	0
+久充计刘高这订认并关	encqyyu	0
+久充计刘	encqyyy	0
+久充计刘高	encqyyy	0
+久充计刘高这	encqyyy	0
+久充计刘高这订	encqyyy	0
+久充计刘高这订认	encqyyy	0
+找不	encragi	0
+反犬旁	encrdup	1
+拜疆	encrdxf	0
+的胜利	encretj	0
+找不到	encrggc	0
+卮看	encrgrh	0
+捌玖拾	encrgrw	0
+拆五笔	encrgtt	1
+的一个	encrgwh	0
+的一个政策	encrgwt	0
+扌𠤎	encrgxt	0
+看失	encrhrw	0
+的法国人有	encrild	0
+的法国	encrilg	0
+的法国人	encrilw	0
+捌玖	encrkgq	0
+制表	encrmge	0
+所以这样	encrnys	0
+所以这样就	encrnyy	0
+的数倨	encrown	0
+手写输入	encrplt	0
+控制	encrprm	0
+打字机	encrpsm	0
+的数	encrqov	0
+的名字	encrqpb	0
+的名字搜	encrqpr	0
+的名	encrqqk	0
+换挡	encrqri	0
+抗争的	encrqrq	0
+抗争的胜利	encrqrt	0
+的标	encrqsf	0
+的退	encrqve	0
+拆五	encrrgg	0
+卮看失	encrrrw	0
+白禾	encrrtt	0
+打字	encrspb	0
+的标准不	encrsug	0
+的标准不同	encrsum	0
+的标准不同导	encrsun	0
+的标准	encrsuw	0
+拼音以五笔	encrunt	0
+拼音以	encruny	0
+的人数	encrwov	0
+扌𠤎丶	encrxyy	0
+可能一	encscgg	0
+本千	encsgtf	0
+可编	encskxy	0
+杨蕙	encsnag	0
+林祝凯	encspmn	1
+格鲁吉亚	encsqfg	0
+格鲁吉	encsqfk	0
+柏惟	encsrnw	0
+林祝	encsspy	0
+梵语	encssyg	0
+格鲁	encstqg	0
+标准不	encsugi	0
+标准不同	encsugm	0
+标准不同导	encsugn	0
+相信美国	encswul	0
+相信美国的数	encswuo	0
+相信美国的	encswur	0
+相信美国的数倨	encswuw	0
+乔治	enctdic	0
+第三版	enctdth	0
+舟采彡豕	encteee	0
+舟采彡豕且	encteee	0
+舟采彡豕且衣家用	encteee	0
+舟采彡豕且衣家用派	encteei	0
+舟采彡豕且衣家	encteep	0
+舟采彡豕且衣家用派白	encteer	0
+舟采	enctees	0
+舟采彡	encteet	0
+舟采彡豕且衣	encteey	0
+盘图	enctelt	0
+选项	enctfad	0
+船一模一样	enctgss	0
+我不知道去	enctgtf	0
+我不知道去哪里	enctgtj	0
+我不知道	enctgtu	0
+乔治亚	enctigo	0
+微波炉	enctioy	0
+我明天	enctjgd	0
+我明天开始	enctjgv	0
+我是林	enctjss	0
+我是说	enctjyu	0
+和四川	enctlkt	0
+身边的法国	enctlrl	0
+身边的	enctlrq	0
+盘图片	enctlth	0
+微波	enctmih	0
+徽位	enctmwu	0
+我示	enctrfi	0
+我不	enctrgi	0
+我上	enctrhh	0
+我是	enctrjg	0
+特种	enctrtk	1
+丿扌𠤎	enctrxt	0
+丿扌𠤎丶	enctrxy	0
+丿扌	encttrg	0
+特种行	enctttf	0
+各种谣言满	encttyi	0
+各种谣言	encttyy	0
+知道去	enctufc	0
+知道去哪里	enctufj	0
+很好奇	enctvds	0
+很好	enctvvb	0
+签证	enctwyg	0
+第三	enctxdg	1
+入韩	enctyfj	0
+并关	encuaud	0
+关三叠	encudcc	0
+关三	encuddg	0
+关闰	encudug	0
+六月初	encuepu	0
+准不同	encugmg	0
+准不同导	encugmn	0
+闰部	encuguk	0
+盖弥	encugxq	0
+冰旧步	encuhhi	0
+冰旧	encuihj	0
+冰瞳	encuihu	0
+北池肖	encuiie	0
+北池肖水	encuiii	0
+北池肖水渐	encuiii	0
+部决	encukun	0
+美国采检	encules	0
+美国采检采检	encules	0
+曾黑	encullf	0
+美国的数	enculro	0
+美国的	enculrq	0
+美国的数倨	enculrw	0
+酱肉丝	encumxx	0
+决交	encunuq	0
+新冠状病毒	encupug	1
+交立	encuquu	0
+产不	encutgi	0
+立北池	encuuib	0
+立北池肖	encuuii	0
+立北池肖水	encuuii	0
+并关闰	encuuug	0
+交立北池	encuuui	0
+交立北池肖	encuuui	0
+决交立北池	encuuui	0
+关闰部	encuuuk	0
+闰部决	encuuun	0
+部决交	encuuuq	0
+关闰部决	encuuuu	0
+关闰部决交	encuuuu	0
+决交立	encuuuu	0
+决交立北	encuuuu	0
+并关闰部	encuuuu	0
+并关闰部决	encuuuu	0
+部决交立	encuuuu	0
+部决交立北	encuuuu	0
+闰部决交	encuuuu	0
+闰部决交立	encuuuu	0
+交立北	encuuux	0
+立北	encuuux	0
+准不	encuwgi	0
+北池	encuxib	0
+盖弥章	encuxuj	0
+毁姑	encvavd	0
+好奇	encvbds	0
+好的	encvbrq	0
+退出冰	encvbui	0
+嫌戏参	encvccd	0
+驽末	encvcgs	0
+好奇不	encvdgi	0
+姑姨	encvdvg	0
+退出	encvebm	0
+退房	encveyn	0
+姨如	encvgvk	0
+與輿	encvgvl	0
+與輿	encvgwf	0
+录彗	encvidh	0
+隶录	encvivi	0
+邕巡	encvkvp	0
+彐隶	encvnvi	0
+刀彐	encvnvn	0
+刀婚	encvnvq	0
+婚嫌	encvqvu	0
+好的退	encvrve	0
+杂合	encvswg	1
+臼臼	encvtvt	0
+嫌戏	encvuca	0
+婚嫌戏	encvvca	0
+婚嫌戏参	encvvcc	0
+隶录彗	encvvdh	0
+刀婚嫌戏	encvvvc	0
+刀婚嫌戏参	encvvvc	0
+刀彐隶录彗	encvvvd	0
+彐隶录彗	encvvvd	0
+毁姑姨	encvvvg	0
+刀彐隶	encvvvi	0
+彐隶录	encvvvi	0
+姑姨如	encvvvk	0
+刀婚嫌	encvvvu	0
+刀彐隶录	encvvvv	0
+毁姑姨如	encvvvv	0
+杂合末笔	encvwgt	0
+杂合末笔为	encvwgy	0
+如何綘	encvwxt	0
+退房房	encvyyn	0
+仓颉	encwbfk	0
+伍陆柒	encwbia	0
+伍陆柒捌玖	encwbig	0
+伍陆柒捌	encwbir	0
+人有一个病	encwdgu	0
+人有一个	encwdgw	0
+人月白	encwerr	0
+人月白禾	encwert	0
+與輿	encwfvl	0
+與輿	encwfwf	0
+例子	encwgbb	1
+伍陆	encwgbf	0
+盒钣	encwgqr	0
+全称	encwgtq	0
+你开始学了	encwgvb	0
+你开始学	encwgvi	1
+你开始学了吗	encwgvk	0
+命令	encwgwy	0
+人民抗争	encwnrq	0
+人民抗争的	encwnrr	0
+人类观宛	encwocp	0
+人类观察	encwocp	0
+分之一	encwpgg	0
+分之一强	encwpgx	0
+偀哥哥	encwssk	0
+什么不用	encwtge	0
+分之	encwvpp	0
+人有	encwwde	0
+人月	encwwee	0
+人畅	encwwjh	0
+人我	encwwtr	0
+欲盖	encwwug	0
+经结	encxcxf	0
+毌结	encxfxf	0
+结纱	encxfxi	0
+给开表	encxgge	0
+给开表下	encxggg	0
+给开表下事	encxggg	0
+母互	encxggx	0
+母互毌	encxgxf	0
+母互毌结	encxgxx	0
+纱细	encxixl	0
+弓曳匕	encxjxt	0
+细综	encxlxp	0
+弓曳	encxnjx	0
+幺母	encxnxg	0
+综张	encxpxt	0
+弥章	encxquj	0
+张给	encxtxw	0
+𠤎丶	encxtyy	0
+给开	encxwga	0
+张给开	encxxga	0
+张给开表	encxxgg	0
+张给开表下	encxxgg	0
+幺母互	encxxgx	0
+幺母互毌	encxxgx	0
+幺母互毌结	encxxgx	0
+丝幺母	encxxxg	0
+丝幺母互	encxxxg	0
+细综张给开	encxxxg	0
+综张给开	encxxxg	0
+综张给开表	encxxxg	0
+经结纱	encxxxi	0
+结纱细	encxxxl	0
+丝幺	encxxxn	0
+纱细综	encxxxp	0
+细综张	encxxxt	0
+综张给	encxxxw	0
+丝幺母互毌	encxxxx	0
+丝幺母互毌结	encxxxx	0
+纱细综张	encxxxx	0
+纱细综张给	encxxxx	0
+细综张给	encxxxx	0
+经结纱细	encxxxx	0
+经结纱细综	encxxxx	0
+结纱细综	encxxxx	0
+结纱细综张	encxxxx	0
+编辑	encxylk	1
+充计	encycyf	0
+说大陆	encydbf	0
+衣家	encyepe	0
+计刘	encyfyj	0
+主的	encygrq	0
+京学	encyiip	0
+京酱	encyiuq	0
+齐量	encyjjg	0
+就是好	encyjvb	0
+刘高	encyjym	0
+高这	encymyp	0
+词库	encynyl	1
+房房	encynyn	0
+衣家用派	encypei	0
+衣家用派白	encyper	0
+衣家用	encypet	0
+这订	encypys	0
+文打字	encyrpb	0
+文打字机	encyrps	0
+就相信美国	encyswl	0
+就相信美国的数	encyswo	0
+就相信美国的	encyswr	0
+就相信美国的数倨	encysww	0
+就相信	encyswy	0
+这样就	encysyi	0
+订认	encysyw	0
+话的	encytrq	0
+京酱肉丝	encyumx	0
+认并关	encyuud	0
+认并关闰	encyuuu	0
+认并关闰部	encyuuu	0
+说全	encyuwg	0
+康战	encyvhk	0
+这个字	encywpb	0
+这个字和四川	encywpk	0
+这个字和	encywpt	0
+为什么	encywtc	0
+为什么不用	encywte	0
+说全称	encywtq	0
+认并	encywua	0
+谣言满	encyyia	0
+丶山	encyymm	0
+文打	encyyrs	0
+订认并	encyyua	0
+订认并关	encyyuu	0
+订认并关闰	encyyuu	0
+充计刘	encyyyj	0
+计刘高	encyyym	0
+刘高这	encyyyp	0
+高这订	encyyys	0
+充计刘高这订认并	encyyyu	0
+充计刘高这订认并关	encyyyu	0
+充计刘高这订认并关闰	encyyyu	0
+刘高这订认并	encyyyu	0
+刘高这订认并关	encyyyu	0
+刘高这订认并关闰	encyyyu	0
+计刘高这订认并	encyyyu	0
+计刘高这订认并关	encyyyu	0
+计刘高这订认并关闰	encyyyu	0
+这订认并	encyyyu	0
+这订认并关	encyyyu	0
+这订认并关闰	encyyyu	0
+高这订认并	encyyyu	0
+高这订认并关	encyyyu	0
+高这订认并关闰	encyyyu	0
+这订认	encyyyw	0
+充计刘高	encyyyy	0
+充计刘高这	encyyyy	0
+充计刘高这订	encyyyy	0
+充计刘高这订认	encyyyy	0
+刘高这订	encyyyy	0
+刘高这订认	encyyyy	0
+文言文	encyyyy	1
+文言文文言文	encyyyy	0
+计刘高这	encyyyy	0
+计刘高这订	encyyyy	0
+计刘高这订认	encyyyy	0
+高这订认	encyyyy	0

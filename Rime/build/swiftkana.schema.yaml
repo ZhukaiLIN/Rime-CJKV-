@@ -1,0 +1,268 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    default: 1586995426
+    default.custom: 0
+    key_bindings: 1576447906
+    key_bindings.custom: 0
+    punctuation: 1571267928
+    punctuation.custom: 0
+    swiftkana.custom: 0
+    swiftkana.schema: 1586654272
+engine:
+  filters:
+    - simplifier
+  processors:
+    - ascii_composer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+key_binder:
+  bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+  import_preset: default
+menu:
+  page_size: 15
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": ["＃", "⌘"]
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": {commit: "，"}
+    "-": "ー"
+    .: {commit: "。"}
+    "/": ["／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "＝"
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": ["＠", "☯"]
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+  half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": "#"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["%", "％", "°", "℃"]
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
+    "+": "+"
+    ",": {commit: "，"}
+    "-": "ー"
+    .: {commit: "。"}
+    "/": ["、", "/", "／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "="
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": "@"
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "\\", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "`"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": ["~", "～"]
+  import_preset: default
+schema:
+  author:
+    - "其弦有余 <1727246457@qq.com>"
+  description: |
+    スイフトカナ（Swift Kana）快速假名輸入方案。
+    本方案使用 OpenCC 進行平假名/片假名轉換，使用前請將 hirakata.ocd 和 hira2kata.json 兩個文件置於 opencc 文件夾中。
+    為使輸入時無需選字，撥音 ん 使用 nnn 輸入，以免出現諸如 nna 既表示 っな，又表示 んあ 的情況。
+  name: "スイフトカナ"
+  schema_id: swiftkana
+  version: 1.4.1
+simplifier:
+  opencc_config: hira2kata.json
+  option_name: simplification
+  tags:
+    - abc
+speller:
+  algebra:
+    - "xform/あ/a/"
+    - "xform/い/i/"
+    - "xform/う/u/"
+    - "xform/え/e/"
+    - "xform/お/o/"
+    - "xform/か/ka/"
+    - "xform/き/ki/"
+    - "xform/く/ku/"
+    - "xform/け/ke/"
+    - "xform/こ/ko/"
+    - "xform/さ/sa/"
+    - "xform/し/si/"
+    - "xform/す/su/"
+    - "xform/せ/se/"
+    - "xform/そ/so/"
+    - "xform/た/ta/"
+    - "xform/ち/ti/"
+    - "xform/つ/tsu/"
+    - "xform/て/te/"
+    - "xform/と/to/"
+    - "xform/な/na/"
+    - "xform/に/ni/"
+    - "xform/ぬ/nu/"
+    - "xform/ね/ne/"
+    - "xform/の/no/"
+    - "xform/は/ha/"
+    - "xform/ひ/hi/"
+    - "xform/ふ/fu/"
+    - "xform/へ/he/"
+    - "xform/ほ/ho/"
+    - "xform/ま/ma/"
+    - "xform/み/mi/"
+    - "xform/む/mu/"
+    - "xform/め/me/"
+    - "xform/も/mo/"
+    - "xform/や/ya/"
+    - "xform/ゆ/yu/"
+    - "xform/よ/yo/"
+    - "xform/ら/ra/"
+    - "xform/り/ri/"
+    - "xform/る/ru/"
+    - "xform/れ/re/"
+    - "xform/ろ/ro/"
+    - "xform/わ/wa/"
+    - "xform/ゐ/wi/"
+    - "xform/ゑ/we/"
+    - "xform/を/wo/"
+    - "xform/ぱ/pa/"
+    - "xform/ぴ/pi/"
+    - "xform/ぷ/pu/"
+    - "xform/ぺ/pe/"
+    - "xform/ぽ/po/"
+    - "xform/が/ga/"
+    - "xform/ぎ/gi/"
+    - "xform/ぐ/gu/"
+    - "xform/げ/ge/"
+    - "xform/ご/go/"
+    - "xform/ざ/za/"
+    - "xform/じ/zi/"
+    - "xform/ず/zu/"
+    - "xform/ぜ/ze/"
+    - "xform/ぞ/zo/"
+    - "xform/だ/da/"
+    - "xform/ぢ/di/"
+    - "xform/づ/du/"
+    - "xform/で/de/"
+    - "xform/ど/do/"
+    - "xform/ば/ba/"
+    - "xform/び/bi/"
+    - "xform/ぶ/bu/"
+    - "xform/べ/be/"
+    - "xform/ぼ/bo/"
+    - "xform/ゔ/vu/"
+    - "xform/ゃ/lya/"
+    - "xform/ゅ/lyu/"
+    - "xform/ょ/lyo/"
+    - "xform/ゎ/lwa/"
+    - "xform/っ/ltu/"
+    - "xform/ぁ/la/"
+    - "xform/ぃ/li/"
+    - "xform/ぇ/le/"
+    - "xform/ぉ/lo/"
+    - "xform/ん/nnn/"
+    - "xform/[aiueo]ly/y/"
+    - "xform/[aiueo]lw/w/"
+    - "xform/ltu([a-z])/$1$1/"
+    - "xform/[aiueo]l([aiueo])/$1/"
+    - "derive/di/dzi/"
+    - "derive/fu$/hu/"
+    - "derive/ti/tci/"
+    - "derive/ti/chi/"
+    - "derive/tsu/tu/"
+    - "derive/si/shi/"
+    - "derive/zi/ji/"
+    - "derive/zy([auo])/j$1/"
+    - "derive/sy([auo])/sh$1/"
+    - "derive/k/c/"
+    - "derive/k/q/"
+    - "derive/l/x/"
+    - "xform/ー/-/"
+  alphabet: "abcdefghijklmnopqrstuvwxyz-"
+  auto_select: true
+  delimiter: " '"
+switches:
+  - name: ascii_mode
+    states: ["中文", "西文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: ascii_punct
+    states: ["，。", "，．"]
+  - name: simplification
+    states: ["ひら", "カタ"]
+translator:
+  dictionary: swiftkana
+  enable_completion: false
+  enable_user_dict: false

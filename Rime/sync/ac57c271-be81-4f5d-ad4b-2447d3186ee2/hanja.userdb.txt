@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	hanja.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	5
+#@/user_id	ac57c271-be81-4f5d-ad4b-2447d3186ee2
+감 사 	感謝	c=2 d=1.99005 t=5
+배 속 	倍速	c=1 d=0.995012 t=5
+패 속 	倍速	c=1 d=0.985112 t=5
+한 자 	漢字	c=1 d=1 t=5

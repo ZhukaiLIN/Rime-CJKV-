@@ -1,0 +1,220 @@
+__build_info:
+  rime_version: 1.5.3
+  timestamps:
+    KappaJP.custom: 1556678154
+    KappaJP.schema: 1556678154
+    default: 1586998047
+    default.custom: 0
+    key_bindings: 1576447906
+    key_bindings.custom: 0
+    punctuation: 1571267928
+    punctuation.custom: 0
+ascii_composer:
+  switch_key:
+    Shift_L: inline_ascii
+    Shift_R: noop
+customization: 1148821450
+engine:
+  filters:
+    - "simplifier@kata"
+    - uniquifier
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - matcher
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+kata:
+  opencc_config: hira2kata.json
+  option_name: kata
+  tags:
+    - abc
+key_binder:
+  bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: z, send: 3, when: has_menu}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+    - {accept: "Shift+Shift_R", toggle: kata, when: always}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: KP_0, send: 0, when: always}
+    - {accept: KP_1, send: 1, when: always}
+    - {accept: KP_2, send: 2, when: always}
+    - {accept: KP_3, send: 3, when: always}
+    - {accept: KP_4, send: 4, when: always}
+    - {accept: KP_5, send: 5, when: always}
+    - {accept: KP_6, send: 6, when: always}
+    - {accept: KP_7, send: 7, when: always}
+    - {accept: KP_8, send: 8, when: always}
+    - {accept: KP_9, send: 9, when: always}
+    - {accept: KP_Multiply, send: "*", when: always}
+    - {accept: KP_Add, send: "+", when: always}
+    - {accept: KP_Subtract, send: "-", when: always}
+    - {accept: KP_Decimal, send: period, when: always}
+    - {accept: KP_Divide, send: "/", when: always}
+    - {accept: "Control+Control_R", toggle: ascii_punct, when: always}
+  import_preset: default
+menu:
+  page_size: 15
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": ["＃", "⌘"]
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": ["、", "，"]
+    "-": "－"
+    .: {commit: "。"}
+    "/": ["／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "＝"
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": ["＠", "☯"]
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+  half_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "#": "#"
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤"]
+    "%": ["%", "％", "°", "℃"]
+    "&": "&"
+    "'": {pair: ["‘", "’"]}
+    "(": "（"
+    ")": "）"
+    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
+    "+": "+"
+    ",": ["、", "，"]
+    "-": "-"
+    .: {commit: "。"}
+    "/": ["、", "/", "／", "÷"]
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹"]
+    "=": "="
+    ">": ["》", "〉", "»", "›"]
+    "?": {commit: "？"}
+    "@": "@"
+    "[": ["「", "【", "〔", "［"]
+    "\\": ["、", "\\", "＼"]
+    "]": ["」", "】", "〕", "］"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "`"
+    "{": ["『", "〖", "｛"]
+    "|": ["·", "|", "｜", "§", "¦"]
+    "}": ["』", "〗", "｝"]
+    "~": ["~", "～"]
+  import_preset: default
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+schema:
+  author:
+    - "发明人　王永民"
+    - "零尾河童 <sanbikappa@qq.com>"
+    - "Rime schema by 紅葉猫 <momijineko@foxmail.com>"
+  description: |
+    河童日本語五筆入力方案
+    碼表源自 零尾河童
+    敲 z 鍵鍵入符號
+    右Shift進行仮名變換
+    四碼自動上屏
+    分号二重、z 鍵三重、空格上屏
+    
+  name: "河童五筆"
+  schema_id: KappaJP
+  version: 2018.3.13.v1.7.custom.1148821450
+speller:
+  auto_select: true
+  auto_select_unique_candidate: true
+  max_code_length: 4
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["かな", "英数"]
+  - name: kata
+    reset: 0
+    states: ["ひら", "カタ"]
+  - name: full_shape
+    reset: 1
+    states: ["半角", "全角"]
+  - name: ascii_punct
+    states: ["，。", "，．"]
+translator:
+  dictionary: KappaJP
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^yyy.*$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  max_phrase_length: 4

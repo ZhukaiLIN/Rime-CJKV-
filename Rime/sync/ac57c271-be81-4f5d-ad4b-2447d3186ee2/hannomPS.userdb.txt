@@ -1,0 +1,105 @@
+# Rime user dictionary
+#@/db_name	hannomPS.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	121
+#@/user_id	ac57c271-be81-4f5d-ad4b-2447d3186ee2
+bangr 	榜	c=1 d=1 t=115
+banhs mif 	餅麵	c=1 d=0.612626 t=121
+banhs mif 	𥹘𫗗	c=1 d=0.667184 t=121
+banhs mif thitj 	𥹘𫗗𦧘	c=1 d=0.609571 t=121
+baoz 	包	c=3 d=2.66534 t=121
+baoz nhieeuz 	包饒	c=1 d=0.959786 t=121
+baoz nhieeuz tieenj 	包饒羡	c=1 d=0.865022 t=121
+bayr 	𦉱	c=1 d=0.704688 t=121
+baz 	𠀧	c=1 d=0.690734 t=121
+bof 	𤙭	c=2 d=1.69156 t=121
+boons 	𦊚	c=1 d=0.694197 t=121
+cais 	丐	c=1 d=1 t=117
+camr 	感	c=1 d=0.744532 t=121
+camr ownz 	感恩	c=4 d=3.19622 t=121
+cawnz banr 	根本	c=1 d=0.985112 t=121
+cawnz banr 	根版	c=1 d=0.955997 t=121
+chaof 	嘲	c=1 d=0.767206 t=121
+chij 	姉	c=1 d=0.909373 t=121
+chins 	𠃩	c=1 d=0.71177 t=121
+chur nghiax 	主義	c=1 d=0.669034 t=121
+chur nhaatj 	主日	c=1 d=0.666977 t=121
+chuwx 	字	c=1 d=1 t=121
+chuwx 	𡨸	c=2 d=2.0362 t=120
+chuwx hans namz 	𡨸漢喃	c=1 d=1 t=121
+congj 	共	c=1 d=0.588605 t=121
+congj hoaj 	共和	c=1 d=0.650711 t=121
+congj hoaj xax hooij 	共和社會	c=1 d=0.594521 t=121
+coongj hoaf 	共和	c=0 d=0.0715338 t=121
+cos phowr 	𣎏𡂄	c=1 d=0.810584 t=121
+ddepj 	惵	c=1 d=0.923116 t=121
+ddepj traiz 	惵𤳆	c=1 d=0.918512 t=121
+gaf 	鵸	c=2 d=1.66223 t=121
+gaf 	𪂮	c=1 d=0.831104 t=121
+giaays 	紙	c=1 d=0.895834 t=121
+giangz 	江	c=1 d=0.647265 t=121
+gioongs 	種	c=1 d=0.970446 t=121
+gioongs nhauz 	𥞖膮	c=1 d=0.965605 t=121
+haiz 	𠄩	c=1 d=0.687289 t=121
+hans 	漢	c=2 d=1.80814 t=121
+hans namz 	漢喃	c=1 d=1.07045 t=120
+hieens 	宪	c=0 d=0.0715338 t=121
+hieens phaps nuwowcs coongj hoaf xax hooij chur nghiax vieetj namz 	宪法渃共和社會主義越南	c=1 d=0.718924 t=121
+hyz vongj 	希望	c=0 d=0.0729789 t=121
+if 	伊	c=1 d=0.726149 t=121
+khoongs 	空	c=1 d=0.906959 t=121
+khoongz cos 	空𣎏	c=1 d=0.806541 t=121
+khoongz phair 	空沛	c=1 d=0.860708 t=121
+laauz 	𥹰	c=1 d=0.882497 t=121
+laf 	羅	c=1 d=1 t=118
+lapj 	拉	c=1 d=1 t=119
+looix 	纇	c=1 d=0.802519 t=121
+mootj 	𠬠	c=1 d=0.683861 t=121
+mootj haif bar boons 	𠬠孩跁𦊚	c=1 d=0.744763 t=121
+mootj haif bar boons nawmz 	𠬠孩跁𦊚𢆥	c=1 d=0.680451 t=121
+muwowif 	𨒒	c=1 d=0.715338 t=121
+namz 	喃	c=1 d=1 t=113
+nawmz 	𠄼	c=1 d=0.697676 t=121
+nawmz 	𢆥	c=0 d=0.0677057 t=121
+ngaz 	俄	c=1 d=0.67032 t=121
+nguwowif 	𠊛	c=1 d=0.722752 t=121
+nhauz 	憢	c=1 d=0.980199 t=121
+nhauz 	饒	c=1 d=0.97531 t=121
+nois 	吶	c=0 d=0.0923116 t=121
+nois tieengs anhz phair khoongs 	吶㗂英沛空	c=1 d=0.927743 t=121
+nuwowcs 	渃	c=1 d=0.794058 t=121
+phair 	沛	c=2 d=1.80087 t=121
+phaps 	法	c=0 d=0.0715338 t=121
+phowr 	𡂄	c=5 d=3.7155 t=121
+raats 	慄	c=1 d=0.960789 t=121
+saus 	𦒹	c=1 d=0.701173 t=121
+sex 	𠱊	c=1 d=0.737123 t=121
+tamj bieetj 	暫別	c=2 d=1.88825 t=121
+tams 	𠔭	c=1 d=0.70822 t=121
+thitj 	𦧘	c=1 d=0.682538 t=121
+tieenf 	錢	c=1 d=0.869358 t=121
+tieengs 	㗂	c=0 d=0.0778801 t=121
+tieengs anhz 	㗂英	c=0 d=0.0923116 t=121
+tieengs trungz 	㗂中	c=1 d=1.03172 t=121
+tieengs vieetj 	㗂越	c=0 d=0.0946485 t=121
+tieengs vieetj namz 	㗂越南	c=3 d=2.52306 t=121
+tieengs vieetj vaf tieengs trungz 	㗂越吧㗂中	c=1 d=0.951229 t=121
+tieenj 	羡	c=0 d=0.0860708 t=121
+toif laf 	𪱕羅	c=1 d=0.634448 t=121
+tooiz 	碎	c=1 d=0.710607 t=121
+tooiz hyz vongj vieetj namz 	碎希望越南	c=1 d=0.733447 t=121
+tooiz laf 	碎羅	c=2 d=1.36025 t=121
+tooiz laf nguwowif trungz quoocs 	碎羅𠊛中國	c=1 d=0.66034 t=121
+trungz 	中	c=1 d=0.932394 t=121
+trungz quoocs 	中國	c=1 d=0.719473 t=121
+vaf 	吧	c=0 d=0.0946485 t=121
+vieetj namz 	越南	c=5 d=3.95726 t=121
+xax hooij 	社會	c=0 d=0.130689 t=121
+xinhz 	𦎡	c=1 d=0.913931 t=121
+xinz 	吀	c=3 d=2.64661 t=121
+xinz camr ownz 	吀感恩	c=1 d=0.786628 t=121
+xinz chaof 	吀嘲	c=8 d=5.56781 t=121
+xinz looix 	吀纇	c=3 d=2.30635 t=121
+xinz looix 	嗔磊	c=2 d=1.51539 t=121
+z 	Other	c=1 d=0.585669 t=121

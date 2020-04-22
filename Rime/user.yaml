@@ -1,0 +1,26 @@
+var:
+  last_build_time: 1587584543
+  option:
+    extended_charset: false
+    full_shape: false
+    simplification: false
+  previously_selected_schema: wubi86
+  schema_access_time:
+    KappaJP: 1587044551
+    KappaJP_express: 1587580988
+    KappaJP_fluency: 1587007017
+    bopomofo: 1571273408
+    cangjie5: 1576452575
+    hangeul: 1587242128
+    hanja: 1587242204
+    hannomPS: 1587340431
+    kunyomi: 1586996192
+    luna_pinyin: 1587425052
+    luna_pinyin_fluency: 1571274457
+    luna_pinyin_simp: 1587239773
+    stroke: 1571267531
+    swiftkana: 1586996109
+    terra_pinyin: 1576373911
+    wubi86: 1587582738
+    wubi_pinyin: 1587246477
+    wubi_trad: 1587507963
